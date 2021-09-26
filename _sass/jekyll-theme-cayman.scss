@@ -110,12 +110,16 @@ a {
   display: inline;
 }
 
-.dropdown:hover .dropdown-content {display: inline;}
+.dropdown:hover .dropdown-content {
+    width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 
 .dropdown-content {
   display: none;
   position: absolute;
-  float: left;
 }
 
 .dropdown-content a {
