@@ -134,21 +134,21 @@ a {
 
   @include large {
     padding-top: 1rem;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
     padding-left: 3rem;
     padding-right: 3rem;
   }
 
   @include medium {
     padding-top: 1rem;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
     padding-left: 3rem;
     padding-right: 3rem;
   }
 
   @include small {
     padding-top: 1rem;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
     padding-left: 1rem;
     padding-right: 1rem;
   }
