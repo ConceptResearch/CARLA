@@ -107,7 +107,7 @@ a {
 
 .dropdown {
   position: relative;
-  display: inline-block;
+  display: table-row;
 }
 
 .dropdown:hover .dropdown-content {display: inline;}
