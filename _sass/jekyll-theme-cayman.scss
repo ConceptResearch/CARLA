@@ -77,12 +77,10 @@ a {
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.3);
-    padding-left: 0.1rem;
-    paddingright: 0.1rem;
   }
 
   + .btn {
-    margin-left: 0.3rem;
+    margin-left: 0.1rem;
   }
 
   @include large {
