@@ -1,3 +1,5 @@
+![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
+
 ## Conceptuccino
 
 Concepts, as a subject of discussion since antiquity, are central to human cognition and therefore a core topic of cognitive science and essential to our understanding of the human mind. In the past decades, research on concepts has been carried out in a variety of fields (ranging from psychology over linguistics to artificial intelligence) and from a variety of perspectives. However, most of this research has been conducted independently or between a restricted selection of neighboring disciplines. In order to arrive at a more holistic understanding of concepts, it is crucial to have a higher awareness and familiarity with approaches from other disciplines. The current situation therefore calls for a broader education of young researchers that also encompasses related fields of study.
