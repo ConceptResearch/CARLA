@@ -2,7 +2,7 @@
 
 We are a group of motivated PhD students and postdoctoral researchers at Osnabrück University. Each one of us is conducting research on concepts from the perspective of their respective discipline, while being very interested in approaches taken in other fields. We strongly believe that we need an interdisciplinary approach if we want to comprehend what concepts are about.
 
-You can contact us any time at concepts@uni-osnabrueck.de
+You can contact us any time at [concepts@uni-osnabrueck.de](mailto:concepts@uni-osnabrueck.de)
 
 ### Lucas Bechberger
 
