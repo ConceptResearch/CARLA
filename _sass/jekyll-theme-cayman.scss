@@ -124,7 +124,7 @@ a {
 .dropdown-content a {
   text-decoration: none;
   display: inline;
-  flex-basis: auto;
+  min-width: 100px;
 }
 
 .page-header {
