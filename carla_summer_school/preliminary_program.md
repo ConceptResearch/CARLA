@@ -1,6 +1,6 @@
 ## Preliminary Program
 
-![Image](../_files/pictures/CARLA_SS_program.png)
+![Image](../files/pictures/CARLA_SS_program.png)
 
 The preliminary program consists of three types of sessions:
 
