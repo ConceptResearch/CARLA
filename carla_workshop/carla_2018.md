@@ -50,7 +50,7 @@ There are three types of presentations:
 they like.
 - Poster presentations take place during the poster session. Posters should be of size A0 (portrait orientation only) or A1 (portrait or landscape
 orientation). At the beginning of the poster session, authors are invited to give a 2 minute "elevator pitch" on their poster. They can use a single
-slide for illustrations. This single slide should be emailed to concepts@uni-osnabrueck.de as pdf file until Friday, 10.08.2018, 2 pm sharp.
+slide for illustrations. This single slide should be emailed to [concepts@uni-osnabrueck.de](mailto:concepts@uni-osnabrueck.de) as pdf file until Friday, 10.08.2018, 2 pm sharp.
 
 ### Schedule:
 
