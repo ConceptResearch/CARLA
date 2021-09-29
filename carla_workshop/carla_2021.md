@@ -76,32 +76,32 @@ will follow.
 
 **The following submissions have been accepted for oral presentation at the workshop:**  
 - Katharina Zaychenko: Capacity Load in Motion Event Construal: Insights from Similarity Judgments, Language Production, and Reaction Time 
-Performance [abstract]
+Performance [[abstract]](../files/carla_2021/CARLA_2021_paper_8.pdf)
 - Pablo Leon Villagra, Isaac Ehrlich, Chris Lucas and Daphna Buchsbaum: Recovering human category structure acrossdevelopment using sparse 
-judgments [abstract]
-- Linda Kaastra: Grounding Concept Formation in Musical Activity [abstract]
-- Guendalina Righetti, Oliver Kutz and Daniele Porello: Making Common Sense of the Leuven Concept Database [abstract]
-- Mark Winstanley: The Structure of Concepts. Jean Piaget and Implicit Definition [abstract]
-- Uta Priss: Conceptual Schemata as a Means for Structuring Teaching Materials [abstract]
-- Nina Poth: Bayesian Modelling of Perceptual Categorisation in Conceptual Spaces [abstract]
-- Caitlyn Antal and Roberto G. de Almeida: When you recognize a dog, you also know it’s an animal: Evidence from rapid object categorization [abstract]
-- Oksana Tkachman, Emily Sadlier-Brown and Carla Hudson Kam: Conceptual Salience in Naming and Describing [abstract]
+judgments [[abstract]](../files/carla_2021/CARLA_2021_paper_9.pdf)
+- Linda Kaastra: Grounding Concept Formation in Musical Activity [[abstract]](../files/carla_2021/CARLA_2021_paper_10.pdf)
+- Guendalina Righetti, Oliver Kutz and Daniele Porello: Making Common Sense of the Leuven Concept Database [[abstract]](../files/carla_2021/CARLA_2021_paper_18.pdf)
+- Mark Winstanley: The Structure of Concepts. Jean Piaget and Implicit Definition [[abstract]](../files/carla_2021/CARLA_2021_paper_19.pdf)
+- Uta Priss: Conceptual Schemata as a Means for Structuring Teaching Materials [[abstract]](../files/carla_2021/CARLA_2021_paper_22.pdf)
+- Nina Poth: Bayesian Modelling of Perceptual Categorisation in Conceptual Spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_25.pdf)
+- Caitlyn Antal and Roberto G. de Almeida: When you recognize a dog, you also know it’s an animal: Evidence from rapid object categorization [[abstract]](../files/carla_2021/CARLA_2021_paper_29.pdf)
+- Oksana Tkachman, Emily Sadlier-Brown and Carla Hudson Kam: Conceptual Salience in Naming and Describing [[abstract]](../files/carla_2021/CARLA_2021_paper_30.pdf)
 
 **The following submissions have been accepted as poster presentations at the workshop:**  
-- Corina Strößner: Criteria of naturalness in conceptual spaces [abstract]
-- Yuliya Krylova-Grek: The representation of Concept of Hate speech in mass media [abstract]
-- Linda Kaastra: Representation in a Field of Musical Operations [abstract]
-- Raphael Aybar: Conceptual and Computational Models of Cognition: The Case of Predictive Processing [abstract]
-- Lucas Bechberger and Kai-Uwe Kuehnberger: Using Convolutional Neural Networks to Map Line Drawings Into Psychological Shape Space [abstract]
-- Stefan Schneider and Andreas Nürnberger: Venn Lattice: An exploratory conceptual space implementing the state concept property formalism [abstract]
-- Julio Torres Soler: Force dynamics in the semantic evolution of lexical categories [abstract]
-- Hermann Bense: An universal Ontology of unique atomic and semantically compound Concepts [abstract]
-- Halima Husic and Claudia Roch: Conceptual variation in German nach [abstract]
-- Xenia Ohmer, Michael Marino, Michael Franke and Peter König: Mutual influence between perception and language in artificial agents [abstract]
-- Sean Tull: A Compositional Model of Fuzzy Concepts in Conceptual Spaces [abstract]
-- Paola Vernillo and Caterina Cacioli: Breaking events: semantic categorization of action concepts in English and Italian [abstract]
-- Paloma Opazo: Concepts in (inter)action: lexical alignment in office hours’ consultations [abstract]
-- Silvano Zipoli Caiani and Gabriele Ferretti: On the Interface Between Action Concepts and Intentions to act [abstract]
+- Corina Strößner: Criteria of naturalness in conceptual spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_4.pdf)
+- Yuliya Krylova-Grek: The representation of Concept of Hate speech in mass media [[abstract]](../files/carla_2021/CARLA_2021_paper_6.pdf)
+- Linda Kaastra: Representation in a Field of Musical Operations [[abstract]](../files/carla_2021/CARLA_2021_paper_11.pdf)
+- Raphael Aybar: Conceptual and Computational Models of Cognition: The Case of Predictive Processing [[abstract]](../files/carla_2021/CARLA_2021_paper_12.pdf)
+- Lucas Bechberger and Kai-Uwe Kuehnberger: Using Convolutional Neural Networks to Map Line Drawings Into Psychological Shape Space [[abstract]](../files/carla_2021/CARLA_2021_paper_13.pdf)
+- Stefan Schneider and Andreas Nürnberger: Venn Lattice: An exploratory conceptual space implementing the state concept property formalism [[abstract]](../files/carla_2021/CARLA_2021_paper_15.pdf)
+- Julio Torres Soler: Force dynamics in the semantic evolution of lexical categories [[abstract]](../files/carla_2021/CARLA_2021_paper_16.pdf)
+- Hermann Bense: An universal Ontology of unique atomic and semantically compound Concepts [[abstract]](../files/carla_2021/CARLA_2021_paper_17.pdf)
+- Halima Husic and Claudia Roch: Conceptual variation in German nach [[abstract]](../files/carla_2021/CARLA_2021_paper_21.pdf)
+- Xenia Ohmer, Michael Marino, Michael Franke and Peter König: Mutual influence between perception and language in artificial agents [[abstract]](../files/carla_2021/CARLA_2021_paper_23.pdf)
+- Sean Tull: A Compositional Model of Fuzzy Concepts in Conceptual Spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_24.pdf)
+- Paola Vernillo and Caterina Cacioli: Breaking events: semantic categorization of action concepts in English and Italian [[abstract]](../files/carla_2021/CARLA_2021_paper_32.pdf)
+- Paloma Opazo: Concepts in (inter)action: lexical alignment in office hours’ consultations [[abstract]](../files/carla_2021/CARLA_2021_paper_33.pdf)
+- Silvano Zipoli Caiani and Gabriele Ferretti: On the Interface Between Action Concepts and Intentions to act [[abstract]](../files/carla_2021/CARLA_2021_paper_31.pdf)
 
 ### Preliminary Schedule:
 
@@ -119,22 +119,22 @@ Our preliminary schedule looks as follows:
     - Monique Flecken: Events in Language and Cognition
 - 10:15 - 10:50: Oral Presentation(Session Chair: Paola Vernillo)
     - Katharina Zaychenko: Capacity Load in Motion Event Construal: Insights from Similarity Judgments, Language Production, and Reaction Time 
-    Performance [abstract]
+    Performance [[abstract]](../files/carla_2021/CARLA_2021_paper_8.pdf)
 - 10:50 - 11:10: Coffee Break
 - 11:10 - 12:20: Oral Presentations (Session Chair: Viviana Haase)
     - Pablo Leon Villagra, Isaac Ehrlich, Chris Lucas and Daphna Buchsbaum: Recovering human category structure across development using sparse
-    judgments[abstract]
-    - Nina Poth: Bayesian Modelling of Perceptual Categorisation in Conceptual Spaces [abstract]
+    judgments [[abstract]](../files/carla_2021/CARLA_2021_paper_9.pdf)
+    - Nina Poth: Bayesian Modelling of Perceptual Categorisation in Conceptual Spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_25.pdf)
 - 12:20 - 13:20: Poster Session (Session Chair: Viviana Haase)
-    - Raphael Aybar: Conceptual and Computational Models of Cognition: The Case of Predictive Processing [abstract]
-    - Lucas Bechberger and Kai-Uwe Kuehnberger: Using Convolutional Neural Networks to Map Line Drawings Into Psychological Shape Space [abstract]
-    - Stefan Schneider and Andreas Nürnberger: Venn Lattice: An exploratory conceptual space implementing the state concept property formalism [abstract]
-    - Julio Torres Soler: Force dynamics in the semantic evolution of lexical categories [abstract]
-    - Silvano Zipoli Caiani and Gabriele Ferretti: On the Interface Between Action Concepts and Intentions to act [abstract]
+    - Raphael Aybar: Conceptual and Computational Models of Cognition: The Case of Predictive Processing [[abstract]](../files/carla_2021/CARLA_2021_paper_12.pdf)
+    - Lucas Bechberger and Kai-Uwe Kuehnberger: Using Convolutional Neural Networks to Map Line Drawings Into Psychological Shape Space [[abstract]](../files/carla_2021/CARLA_2021_paper_13.pdf)
+    - Stefan Schneider and Andreas Nürnberger: Venn Lattice: An exploratory conceptual space implementing the state concept property formalism [[abstract]](../files/carla_2021/CARLA_2021_paper_15.pdf)
+    - Julio Torres Soler: Force dynamics in the semantic evolution of lexical categories [[abstract]](../files/carla_2021/CARLA_2021_paper_16.pdf)
+    - Silvano Zipoli Caiani and Gabriele Ferretti: On the Interface Between Action Concepts and Intentions to act [[abstract]](../files/carla_2021/CARLA_2021_paper_31.pdf)
 - 13:20 - 14:20: Lunch Break
 - 14:20 - 15:30: Oral Presentations (Session Chair: Mingya Liu)
-    - Guendalina Righetti, Oliver Kutz and Daniele Porello: Making Common Sense of the Leuven Concept Database [abstract]
-    - Uta Priss: Conceptual Schemata as a Means for Structuring Teaching Materials [abstract]
+    - Guendalina Righetti, Oliver Kutz and Daniele Porello: Making Common Sense of the Leuven Concept Database [[abstract]](../files/carla_2021/CARLA_2021_paper_18.pdf)
+    - Uta Priss: Conceptual Schemata as a Means for Structuring Teaching Materials [[abstract]](../files/carla_2021/CARLA_2021_paper_22.pdf)
 - 15:30 - 15:50: Coffee Break
 - 15:50 - 16:20: Business Meeting (Session Chair: Mingya Liu)
 - 16:20 - 18:00: Open Space / Socializing (Session Chair: Viviana Haase)
@@ -144,45 +144,45 @@ Our preliminary schedule looks as follows:
 - 09:00 - 10:00: Keynote Talk (Session Chair: Lucas Bechberger)
     - Antonio Lieto: Heterogeneous Proxytypes as a Unifying Cognitive Framework for Conceptual Representation and Reasoning in Artificial Systems
 - 10:00 - 10:35: Oral Presentation(Session Chair: Lucas Bechberger)
-    - Mark Winstanley: The Structure of Concepts. Jean Piaget and Implicit Definition [abstract]
+    - Mark Winstanley: The Structure of Concepts. Jean Piaget and Implicit Definition [[abstract]](../files/carla_2021/CARLA_2021_paper_19.pdf)
 - 10:35 - 10:55: Coffee Break
 - 10:55 - 12:05: Oral Presentations (Session Chair: Nicolás Araneda Hinrichs)
-    - Oksana Tkachman, Emily Sadlier-Brown and Carla Hudson Kam: Conceptual Salience in Naming and Describing [abstract]
+    - Oksana Tkachman, Emily Sadlier-Brown and Carla Hudson Kam: Conceptual Salience in Naming and Describing [[abstract]](../files/carla_2021/CARLA_2021_paper_30.pdf)
     - Caitlyn Antal and Roberto G. de Almeida: When you recognize a dog, you also know it’s an animal: Evidence from rapid object 
-    categorization [abstract]
+    categorization [[abstract]](../files/carla_2021/CARLA_2021_paper_29.pdf)
 - 12:05 - 13:05: Poster Session (Session Chair: Nicolás Araneda Hinrichs)
-    - Corina Strößner: Criteria of naturalness in conceptual spaces [abstract]
-    - Yuliya Krylova-Grek: The representation of Concept of Hate speech in mass media [abstract]
-    - Hermann Bense: An universal Ontology of unique atomic and semantically compound Concepts [abstract]
-    - Halima Husic and Claudia Roch: Conceptual variation in German nach [abstract]
-    - Paola Vernillo and Caterina Cacioli: Breaking events: semantic categorization of action concepts in English and Italian [abstract]
+    - Corina Strößner: Criteria of naturalness in conceptual spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_4.pdf)
+    - Yuliya Krylova-Grek: The representation of Concept of Hate speech in mass media [[abstract]](../files/carla_2021/CARLA_2021_paper_6.pdf)
+    - Hermann Bense: An universal Ontology of unique atomic and semantically compound Concepts [[abstract]](../files/carla_2021/CARLA_2021_paper_17.pdf)
+    - Halima Husic and Claudia Roch: Conceptual variation in German nach [[abstract]](../files/carla_2021/CARLA_2021_paper_21.pdf)
+    - Paola Vernillo and Caterina Cacioli: Breaking events: semantic categorization of action concepts in English and Italian [[abstract]](../files/carla_2021/CARLA_2021_paper_32.pdf)
 - 13:05 - 14:00: Lunch Break
 - 14:00 - 14:35: Oral Presentation (Session Chair: Corina Strößner)
-    - Linda Kaastra: Grounding Concept Formation in Musical Activity [abstract]
+    - Linda Kaastra: Grounding Concept Formation in Musical Activity [[abstract]](../files/carla_2021/CARLA_2021_paper_10.pdf)
 - 14:35 - 15:35: Poster Session (Session Chair: Corina Strößner)
-    - Linda Kaastra: Representation in a Field of Musical Operations [abstract]
-    - Xenia Ohmer, Michael Marino, Michael Franke and Peter König: Mutual influence between perception and language in artificial agents [abstract]
-    - Sean Tull: A Compositional Model of Fuzzy Concepts in Conceptual Spaces [abstract]
-    - Paloma Opazo: Concepts in (inter)action: lexical alignment in office hours’ consultations [abstract]
+    - Linda Kaastra: Representation in a Field of Musical Operations [[abstract]](../files/carla_2021/CARLA_2021_paper_11.pdf)
+    - Xenia Ohmer, Michael Marino, Michael Franke and Peter König: Mutual influence between perception and language in artificial agents [[abstract]](../files/carla_2021/CARLA_2021_paper_23.pdf)
+    - Sean Tull: A Compositional Model of Fuzzy Concepts in Conceptual Spaces [[abstract]](../files/carla_2021/CARLA_2021_paper_24.pdf)
+    - Paloma Opazo: Concepts in (inter)action: lexical alignment in office hours’ consultations [[abstract]](../files/carla_2021/CARLA_2021_paper_33.pdf)
 - 15:35 - 15:45: Closing Ceremony (Session Chair: Stefan Schneider)
 
 ### Registration and Attendance:
 
-The workshop will be conducted using the videoconferencing software Zoom. Attendance is for free and registration takes place through the central
-registration system of the Bolzano Summer of Knowledge (there, you can also find further information about co-located events). Please make sure to 
+The workshop will be conducted using the videoconferencing software [Zoom](https://zoom.us/). Attendance is for free and registration takes place through the [central
+registration system of the Bolzano Summer of Knowledge](https://summerofknowledge.inf.unibz.it/registration-bosk-2021/) (there, you can also find further information about co-located events). Please make sure to 
 select CARLA 2021 when registering. We will then send around the link to our Zoom session and further attendance information 1-2 weeks before the 
-workshop. At this point, we also cordially invite you to register for other BOSK events such as FOIS 2021 (12th International Conference on Formal 
-Ontology in Information Systems) and ICCS 2021 (26th International Conference on Conceptual Structures), which allow for free online participation. 
+workshop. At this point, we also cordially invite you to register for other BOSK events such as [FOIS 2021](https://fois2021.inf.unibz.it/) (12th International Conference on Formal 
+Ontology in Information Systems) and [ICCS 2021](https://iccs-conference.org/) (26th International Conference on Conceptual Structures), which allow for free online participation. 
 Moreover, please feel free to share this information with your peers!
 
 ### Organizers:
 
-**Lucas Bechberger**, Institute of Cognitive Science, Osnabrück University  
+[**Lucas Bechberger**](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
 **Viviana Haase**, Institute for Philosophy II, Ruhr University Bochum  
 **Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, 
 University Concepción  
-**Mingya Liu**, Department of English and American Studies, Humboldt University of Berlin  
+[**Mingya Liu**](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu), Department of English and American Studies, Humboldt University of Berlin  
 **Alessandro Panunzi**, Università degli Studi di Firenze; University of Florence  
-**Stefan Schneider**, Faculty of Computer Science, Otto von Guericke University Magdeburg  
-**Corina Strößner**, Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
+[**Stefan Schneider**](http://www.sschneider.de%20/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
+[**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
 **Paola Vernillo**, Università degli Studi di Firenze; University of Florence  
