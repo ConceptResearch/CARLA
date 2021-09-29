@@ -4,7 +4,7 @@ The [Institute of Cognitive Science](https://cogsci.uni-osnabrueck.de/) at Osnab
 in Action: Representation, Learning, and Application” (CARLA), funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en.html).
 
 The summer school will bring together researchers from different disciplines with the goal of providing participants with knowledge about concept 
-research outside of their own fields and to initiate interdisciplinary exchanges and research. A subsequent and co-located workshop provides an 
+research outside of their own fields and to initiate interdisciplinary exchanges and research. A subsequent and co-located [workshop](../carla_workshop/carla_2018.md) provides an 
 excellent opportunity to present and discuss ongoing research on concepts.
 
 Both events will focus on (but not be restricted to) three core questions: How can we formally describe and model concepts? Where do concepts come
@@ -33,7 +33,7 @@ Concepts and Language: Computational Models and Robot Experiments”
 
 ### Schedule:
 
-The schedule includes both lectures and interactive discussion sessions. Details can be found here.
+The schedule includes both lectures and interactive discussion sessions. Details can be found [here](./preliminary_program.md).
 
 ### Costs:
 
@@ -54,7 +54,7 @@ Your application should consist of a single pdf file including a single-page CV 
 research interests and why you want to attend the summer school. If you need a visa to enter Germany, please indicate this in your application so
 that we can prepare invitation letters for you in time. If you need financial support for travel and accommodation expenses, please also indicate
 this in your application. We will notify you about the selection results by May 7, 2018. Should you have any questions, please contact us anytime
-at concepts@uni-osnabrueck.de.
+at [concepts@uni-osnabrueck.de](mailto:concepts@uni-osnabrueck.de).
 
 ### Organizers:
 
