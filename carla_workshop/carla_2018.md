@@ -58,7 +58,7 @@ slide for illustrations. This single slide should be emailed to [concepts@uni-os
 
 08:45 – 09:00: Welcome and Introduction  
 09:00 – 10:00: **Invited Talk by Peter Gärdenfors** - _“Where do Conceptual Domains Come from?”_  
-10:00 – 10:30: Hadi Banaee, Erik Schaffernicht and Amy Loutfi - [_“Towards Data-driven Conceptual Spaces”_](/files/carla_2018/Banaee.pdf)    
+10:00 – 10:30: Hadi Banaee, Erik Schaffernicht and Amy Loutfi - [_“Towards Data-driven Conceptual Spaces”_](../files/carla_2018/Banaee.pdf)    
 
 10:30 – 11:00: Coffee Break
 
