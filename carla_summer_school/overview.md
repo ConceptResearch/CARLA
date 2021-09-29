@@ -25,4 +25,4 @@ The summer school will focus on three main topics:
 We explicitly aim at establishing a sustainable interdisciplinary network to ease the exchanges among concept
 researchers.
 
-Both the flyer and the poster for this event are available for download.
+Both the [flyer](../files/carla_summer_school/flyer_fb8_kognitionswissenschaft_CARLA_2018-web-2.pdf) and the [poster](../files/carla_summer_school/plakat_fb8_kognitionswissenschaft_CARLA_2018-web.pdf) for this event are available for download.
