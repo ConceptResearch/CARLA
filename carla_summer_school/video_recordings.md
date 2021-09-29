@@ -4,7 +4,7 @@ We are glad that we were able to record two of our five lectures and to upload t
 
 ### Robert Goldstone - The Learning and Use of Concepts by Humans
 
-<iframe width="840" height="630"
+<iframe width="840" height="550"
 src="https://www.youtube.com/embed/rUu7lIxjUnM">
 </iframe>
 
