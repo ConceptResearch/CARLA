@@ -58,46 +58,46 @@ slide for illustrations. This single slide should be emailed to [concepts@uni-os
 
 08:45 – 09:00: Welcome and Introduction  
 09:00 – 10:00: **Invited Talk by Peter Gärdenfors** - _“Where do Conceptual Domains Come from?”_  
-10:00 – 10:30: Hadi Banaee, Erik Schaffernicht and Amy Loutfi - [_“Towards Data-driven Conceptual Spaces”_](../files/carla_2018/Banaee.pdf)    
+10:00 – 10:30: Hadi Banaee, Erik Schaffernicht and Amy Loutfi - [_“Towards Data-driven Conceptual Spaces”_](../files/carla_2018/Banaee.pdf)  
 
 10:30 – 11:00: Coffee Break
 
-11:00 – 11:30:  Lewis Pollock - _“Which concepts should we posit?”_  
+11:00 – 11:30:  Lewis Pollock - [_“Which concepts should we posit?”_](../files/carla_2018/Pollock.pdf)    
 11:30 – 12:30: **Invited Talk by Christiane D. Fellbaum** - _“Representation and Applications of Gradable Concepts”_  
 
 12:30 – 14:00: Lunch Break
 
-14:00 – 14:30: Guido Robin Löhr - _“What Psychologists Can Tell Us About the Acquisition of Complex Concepts”_  
-14:30 – 15:00: José V. Hernández-Conde - _“Contextualism, Instantiated Concepts, and Non-Representationality”_  
+14:00 – 14:30: Guido Robin Löhr - [_“What Psychologists Can Tell Us About the Acquisition of Complex Concepts”_](../files/carla_2018/Löhr.pdf)    
+14:30 – 15:00: José V. Hernández-Conde - [_“Contextualism, Instantiated Concepts, and Non-Representationality”_](../files/carla_2018/Hernández-Conde.pdf)  
 
 15:00 - 15:30: Coffee Break  
 15:30 - 16:00: Poster Elevator Pitches  
 16:00 - 17:30: Poster Session  
-- Hermann Bense - _“An Universal Ontology of Unique Atomic and Semantically Compound Concepts”_
-- Michael Färber, Yulia Svetashova and Andreas Harth - _“Theories about World Representations for the Internet of Things”_
-- Viviana Haase - _“Conceptual dynamics of negation and its use”_
-- I Ying Lin - _“Memory Determined by Schemata: A Cognitive Linguistics Analysis of the Effect of Culture- based Schemata on the Reproductive Competences 
-of People from East and West”_
-- Lisset Salinas Pinacho and Michael Beetz - _“Object grasping and arrangements extracted from virtual reality for a household robot”_
-- Margit Scheibel - _“Processing correlates of action verb specificity”_
-- Stefan Schneider and Andreas Nürnberger - _“Evaluating Semantic CoCreation in Cognitive Representation Models”_
-- Julian Szymanski - _“Representation of Wikipedia articles for NLP tasks”_
-- Madhura Thosar - _"From Senses to Knowledge: A Multi-layered Dataset For Grounded Knowledge About Household Objects"_
-- Paola Vernillo - _“Grounding abstract concepts in action”_
+- Hermann Bense - [_“An Universal Ontology of Unique Atomic and Semantically Compound Concepts”_](../files/carla_2018/Bense.pdf)
+- Michael Färber, Yulia Svetashova and Andreas Harth - [_“Theories about World Representations for the Internet of Things”_](../files/carla_2018/Färber.pdf)
+- Viviana Haase - [_“Conceptual dynamics of negation and its use”_](../files/carla_2018/Haase.pdf)
+- I Ying Lin - [_“Memory Determined by Schemata: A Cognitive Linguistics Analysis of the Effect of Culture- based Schemata on the Reproductive Competences 
+of People from East and West”_](../files/carla_2018/Lin.pdf)
+- Lisset Salinas Pinacho and Michael Beetz - [_“Object grasping and arrangements extracted from virtual reality for a household robot”_](../files/carla_2018/Salinas.pdf)
+- Margit Scheibel - [_“Processing correlates of action verb specificity”_](../files/carla_2018/Scheibel.pdf)
+- Stefan Schneider and Andreas Nürnberger - [_“Evaluating Semantic CoCreation in Cognitive Representation Models”_](../files/carla_2018/Schneider.pdf)
+- Julian Szymanski - [_“Representation of Wikipedia articles for NLP tasks”_](../files/carla_2018/Szymanski.pdf)
+- Madhura Thosar - [_"From Senses to Knowledge: A Multi-layered Dataset For Grounded Knowledge About Household Objects"_](../files/carla_2018/Thosar.pdf)
+- Paola Vernillo - [_“Grounding abstract concepts in action”_](../files/carla_2018/Vernillo.pdf)
 
 18:15: Social Dinner at the Italian Restaurant Amodomio (Heger Straße 12)
 
 Sunday, 12.08.2018
 
 09:00 – 10:00: **Invited Talk by Michael Spranger** - _“Evolutionary semantics on real robots”_  
-10:00 – 10:30: Helmar Gust and Carla Umbach - _“Kind formation by similarity”_  
-10:30 – 11:00: Elisa Scerrati, Cristina Iani and Sandro Rubichi - _“Does the activation of motor information affect semantic processing?”_  
+10:00 – 10:30: Helmar Gust and Carla Umbach - [_“Kind formation by similarity”_](../files/carla_2018/Gust.pdf)  
+10:30 – 11:00: Elisa Scerrati, Cristina Iani and Sandro Rubichi - [_“Does the activation of motor information affect semantic processing?”_](../files/carla_2018/Scerrati.pdf)  
 
 11:00 – 11:30: Coffee Break
 
 11:30 – 12:30: **Invited Talk by Robert Goldstone** - _“Connecting Concepts to each other and the world”_  
-12:30 – 13:00: David Schlangen - _“A Practical Compositional Semantics for Situated Interaction”_  
-13:00 – 13:30: Lucas Bechberger - _"Machine Learning in Conceptual Spaces: Two Learning Processes"_  
+12:30 – 13:00: David Schlangen - [_“A Practical Compositional Semantics for Situated Interaction”_](../files/carla_2018/Schlangen.pdf)  
+13:00 – 13:30: Lucas Bechberger - [_"Machine Learning in Conceptual Spaces: Two Learning Processes"_](../files/carla_2018/Bechberger.pdf)  
 13:30 – 13:45: Wrap-Up and Goodbye  
 
 ### Organizers:
