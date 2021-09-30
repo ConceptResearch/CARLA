@@ -1,3 +1,5 @@
+<style>.main-content {padding-top:0;}</style>
+
 ![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
 
 ## Conceptuccino
