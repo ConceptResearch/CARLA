@@ -1,4 +1,4 @@
-<style>.main-content {padding-top:0;}</style>
+<style> .main-content {padding-top:0.1rem;} </style>
 
 ![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
 
