@@ -77,4 +77,4 @@ Depending on the number and quality of the received submissions, selected contri
 [**Stefan Schneider**](http://www.sschneider.de%20/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
 [**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
 [**Stephanie Rotter**](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
-**Paola Vernillo**, Università degli Studi di Firenze; University of Florence 
+**Paola Vernillo**, Università degli Studi di Firenze, University of Florence 
