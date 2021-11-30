@@ -71,7 +71,7 @@ Depending on the number and quality of the received submissions, selected contri
 [**Mingya Liu**](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu) & [**Stephanie Rotter**](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
 
 ### External Organizers:
-**Caitlyn Antal**, Department of Psychology, McGill University 
+**Caitlyn Antal**, Department of Psychology, McGill University  
 [**Lucas Bechberger**](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
 **Viviana Haase**, Institute for Philosophy II, Ruhr University Bochum  
 **Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
