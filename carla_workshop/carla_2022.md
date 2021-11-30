@@ -3,25 +3,25 @@
 
 [comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
 
-The first international workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020 and 2021. Following its great success, we are organizing a fourth international workshop “Concepts in Action: Representation, Learning, and Application” (CARLA) in 2022 with a special session on concepts and registers. We invite the submission of abstracts to the workshop.
+The first international workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020 and 2021. Following its great success, we are organizing a fourth hybrid workshop “Concepts in Action: Representation, Learning, and Application” (CARLA) in 2022. In addition to a general main seesion, CARLA 2022 will feature a special session concepts and register, in relation to the Collaborative Research Center [CRC1412](https://sfb1412.hu-berlin.de/) on "Register" at the Humboldt University of Berlin.
 
 ## Time and Venue:
 
-**Date:** to be announced 
-**Venue:** to be announced
+**Date:** to be announced  
+**Venue:** Humboldt University of Berlin, Germany
 
 [comment]: <> (**IMPORTANT:** CARLA 2021will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
-## Invited Talks
+## Invited Speakers:
 ### Main session:
 
-Regine Eckardt, Department of Linguistics, University of Konstanz
+[Regine Eckardt](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
 
-**TBA**  
+[comment]: <> (** **)  
 
-Roberto de Almeida, Department of Psychology, Concordia University
+[Roberto de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
 
-**TBA**  
+[comment]: <> (** **)  
 
 ### Special session:
 
@@ -50,7 +50,7 @@ The workshop is open for research on any aspect of concepts, but there are three
     - Artificial Agents
     - Concept Blending, Metaphors, Creativity
 
-For the special session, the workshop focuses on topics related to the field of sociolinguistics and variation:
+In relation to the Collaborative Research Center CRC1412 on "Register" at the Humboldt University of Berlin, we focuse in the special session on topics related to the field of sociolinguistics and variation:
 
  - **Registers:** _How are concepts register sensitive?_
 
@@ -66,15 +66,17 @@ The abstracts should use two to three pages (including references) and should be
 
 [comment]: <> (We will use the following EasyChair instance to collect and review the submissions: https://easychair.org/conferences/?conf=carla2021)
 
-Depending on the number and quality of the received submissions, selected contributions may be published after the workshop. More information on this will follow.
+Depending on the number and quality of the received submissions, selected contributions may be published after the workshop. For planning reasons, please indicate whether you are interested in a publication in the form of conference proceedings.
 
-## Organizers:
+## Program Committee: 
 
+### Local Organizers:
+[**Mingya Liu**](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu) & [**Stephanie Rotter**](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
+
+### External Organizers:
 **Caitlyn Antal**, Department of Psychology, McGill University  
 **Viviana Haase**, Institute for Philosophy II, Ruhr University Bochum  
 **Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
-[**Mingya Liu**](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu), Department of English and American Studies, Humboldt University of Berlin  
 [**Stefan Schneider**](http://www.sschneider.de%20/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
 [**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
-[**Stephanie Rotter**](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
-**Paola Vernillo**, Università degli Studi di Firenze, University of Florence 
+**Paola Vernillo**, Department of Literature and Philosophy, University of Florence 
