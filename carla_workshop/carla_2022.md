@@ -7,24 +7,27 @@ The first international workshop “Concepts in Action: Representation, Learning
 
 ## Time and Venue:
 
-**Date:** to be announced  
+**Date:** 22-24.August.2022
 **Venue:** Humboldt University of Berlin, Germany
 
 [comment]: <> (**IMPORTANT:** CARLA 2021will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
-## Invited Speakers:
+## Invited Speakers: (23-24.August)
 ### Main session:
 
 [Roberto de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
 
 [Regine Eckardt](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
 
+[Martha Lewis](https://marthaflinderslewis.wordpress.com/) 
 
-### Special session:
 
-Tba
+### Special session: (22.August)
 
-**Tba**
+[Asif Agha](https://anthropology.sas.upenn.edu/people/asif-agha)
+
+[Pia Knoeferle](http://amor.cms.hu-berlin.de/~knoeferp/index.html)
+
 
 
 
