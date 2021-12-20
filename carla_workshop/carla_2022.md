@@ -19,14 +19,15 @@ The first international workshop “Concepts in Action: Representation, Learning
 
 [Regine Eckardt](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
 
-[Martha Lewis](https://marthaflinderslewis.wordpress.com/) 
+[Martha Lewis](https://marthaflinderslewis.wordpress.com/), Department of Engineering Mathematics, University of Bristol
 
 
 ### Special session: (22.August)
 
-[Asif Agha](https://anthropology.sas.upenn.edu/people/asif-agha)
+[Asif Agha](https://anthropology.sas.upenn.edu/people/asif-agha), Department of Anthropology, University of Pennsylvania
 
-[Pia Knoeferle](http://amor.cms.hu-berlin.de/~knoeferp/index.html)
+[Pia Knoeferle](http://amor.cms.hu-berlin.de/~knoeferp/index.html), Institut für dt. Sprache und Linguistik, Humboldt University of Berlin
+
 
 
 
