@@ -87,6 +87,9 @@ Depending on the number and quality of the received submissions, selected contri
 [**Lucas Bechberger**](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
 [**Viviana Haase**](https://www.ini.rub.de/the_institute/people/viviana-haase/), Institute for Philosophy II, Ruhr University Bochum  
 **Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
-[**Stefan Schneider**](http://www.sschneider.de%20/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
+[**Stefan Schneider**](http://www.sschneider.de/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
 [**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
 **Paola Vernillo**, Department of Literature and Philosophy, University of Florence 
+
+# Contact
+Please contact rotterst at hu-berlin.de for any questions.
