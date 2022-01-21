@@ -18,8 +18,8 @@ The first international workshop “Concepts in Action: Representation, Learning
 ## Time and Venue:
 
 **Date:** 22-24. August 2022 \newline
-**Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103 \newline 
-\hspace{1cm} Humboldt University of Berlin, Germany
+**Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103 \ 
+Humboldt University of Berlin, Germany
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
