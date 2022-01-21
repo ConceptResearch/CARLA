@@ -67,13 +67,13 @@ In addition to the general main session on concepts, we would like to draw atten
 
 ## Submission and Publication:
 
-Submission opening to be announced. 
+We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptance notifications will be sent out by June 15, 2022.
 
-[comment]: <> (We invite the submission of abstracts via EasyChair until May 26, 2021. Acceptance notifications will be sent out by June 16, 2021.)
+[comment]: <> (We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptance notifications will be sent out by June 15, 2022.)
 
 The abstracts should use two to three pages (including references) and should be uploaded as pdf based on the following template (LaTeX or Word) which is based on Springer’s LNCS style: Download Template
 
-[comment]: <> (We will use the following EasyChair instance to collect and review the submissions: https://easychair.org/conferences/?conf=carla2021)
+[comment]: <> (We will use the following EasyChair instance to collect and review the submissions: https://easychair.org/my/conference?conf=carla2022)
 
 Depending on the number and quality of the received submissions, selected contributions may be published after the workshop. For planning reasons, please indicate during the submission procedure whether you are interested in a publication in the form of conference proceedings.
 
