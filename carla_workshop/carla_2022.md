@@ -1,13 +1,3 @@
----
-title: "Untitled"
-author: "Stephanie Rotter"
-date: "21 12 2021"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # CARLA 2022
 
