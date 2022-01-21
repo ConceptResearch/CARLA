@@ -92,4 +92,4 @@ Depending on the number and quality of the received submissions, selected contri
 **Paola Vernillo**, Department of Literature and Philosophy, University of Florence 
 
 # Contact
-Please contact rotterst at hu-berlin.de for any questions.
+Please contact Stephanie Rotter (rotterst at hu-berlin.de) for any questions.
