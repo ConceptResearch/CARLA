@@ -85,7 +85,7 @@ Depending on the number and quality of the received submissions, selected contri
 ### External Organizers:
 [**Caitlyn Antal**](https://psycholinguistics.weebly.com/caitlyn-antal.html), Department of Psychology, McGill University  
 [**Lucas Bechberger**](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
-**Viviana Haase**, Institute for Philosophy II, Ruhr University Bochum  
+[**Viviana Haase**](https://www.ini.rub.de/the_institute/people/viviana-haase/), Institute for Philosophy II, Ruhr University Bochum  
 **Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
 [**Stefan Schneider**](http://www.sschneider.de%20/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
 [**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
