@@ -25,7 +25,7 @@ Humboldt University of Berlin, Germany
 
 ### Main session: (23-24. August)
 
-[Roberto de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
+[Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
 
 [Regine Eckardt](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
 
