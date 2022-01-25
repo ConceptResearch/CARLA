@@ -1,7 +1,7 @@
 
-![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
+![main entrance of castle](CARLA/files/pictures/schloss_haupteingang.jpg)
 
-![HU_logo](/carla_workshop/HU_logo.jpg)
+![HU_logo](CARLA/carla_workshop/carla_workshop/HU_logo.jpg)
 
 ![CRC_logo](https://github.com/ConceptResearch/CARLA/blob/ada83350dbdb59cf563193d81d8b74bc6c56119a/carla_workshop/Logo_SFB1412_Register_en.jpg)
 
