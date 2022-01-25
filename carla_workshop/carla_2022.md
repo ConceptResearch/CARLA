@@ -1,6 +1,6 @@
-![HU logo](/carla_workshop/HU_logo.jpg)
-
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![HU logo](/carla_workshop/HU_logo.jpg) | ![HU logo](/carla_workshop/HU_logo.jpg)
 # CARLA 2022
 
 [comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
