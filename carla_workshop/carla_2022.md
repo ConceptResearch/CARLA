@@ -3,8 +3,6 @@
 </p>
 
 
-[comment]: <> (![HU logo](/files/HU_logo.jpg))
-
 # CARLA 2022
 
 [comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
