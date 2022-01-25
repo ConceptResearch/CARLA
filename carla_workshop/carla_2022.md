@@ -1,6 +1,8 @@
 
 ![HU_logo](/carla_workshop/HU_logo.jpg)
 
+![CRC_logo](https://github.com/ConceptResearch/CARLA/blob/ada83350dbdb59cf563193d81d8b74bc6c56119a/carla_workshop/Logo_SFB1412_Register_en.jpg)
+
 # CARLA 2022
 
 [comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
