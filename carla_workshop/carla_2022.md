@@ -1,11 +1,6 @@
 
-![main entrance of castle](CARLA/files/pictures/schloss_haupteingang.jpg)
+![main entrance of castle](/CARLA/files/pictures/schloss_haupteingang.jpg)
 
-![HU_logo](/HU_logo.jpg)
-
-![CRC_logo](https://github.com/ConceptResearch/CARLA/blob/ada83350dbdb59cf563193d81d8b74bc6c56119a/carla_workshop/Logo_SFB1412_Register_en.jpg)
-
-![CRC logo2](https://github.com/ConceptResearch/CARLA/blob/ada83350dbdb59cf563193d81d8b74bc6c56119a/carla_workshop/Logo_SFB1412_Register_en.png)
 
 # CARLA 2022
 
