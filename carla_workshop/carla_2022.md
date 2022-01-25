@@ -1,3 +1,4 @@
+![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
 
 # CARLA 2022
 
