@@ -1,4 +1,4 @@
-![HU logo](/HU_logo.jpg)
+![HU logo](/carla_workshop/HU_logo.jpg)
 
 
 # CARLA 2022
