@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/carla_workshop/dfg.JPG" width="30%" />
+  <img src="ConceptResearch/CARLA/carla_workshop/dfg.JPG" width="30%" />
   <img src="/carla_workshop/Logo_SFB1412_Register_en.jpg" width="30%" />
   <img src="https://github.com/ConceptResearch/CARLA/blob/main/carla_workshop/HU_logo.jpg" width="30%" /> 
 </p>
