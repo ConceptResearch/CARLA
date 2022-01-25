@@ -1,4 +1,4 @@
-![HU logo](/files/pictures/HU_logo.jpg)
+![HU logo](/files/HU_logo.jpg)
 
 # CARLA 2022
 
