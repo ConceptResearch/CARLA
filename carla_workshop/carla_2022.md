@@ -1,7 +1,5 @@
 
-![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
-
-![HU_logo](/carla_workshop/HU_logo.jpg)
+![HU logo](/carla_workshop/HU_logo.jpg)
 
 
 # CARLA 2022
