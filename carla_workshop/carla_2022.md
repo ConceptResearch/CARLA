@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/carla_workshop/HU_logo.jpg" width="20%" />
+  <img src="/carla_workshop /HU_logo.jpg" width="20%" />
   <img src="/carla_workshop/HU_logo.jpg" width="30%" /> 
 </p>
 
