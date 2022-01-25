@@ -1,9 +1,6 @@
-![HU logo](/carla_workshop/HU_logo.jpg) ![HU logo](/carla_workshop/HU_logo.jpg)
-
-
 <p float="left">
-  <img src="/carla_workshop/HU_logo.jpg" width="100" />
-  <img src="/carla_workshop/HU_logo.jpg" width="100" /> 
+  <img src="/carla_workshop/HU_logo.jpg" width="20%" />
+  <img src="/carla_workshop/HU_logo.jpg" width="30%" /> 
 </p>
 
 
