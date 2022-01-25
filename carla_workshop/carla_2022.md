@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/files/HU_logo.jpg" />
+</p>
+
+
 ![HU logo](/files/HU_logo.jpg)
 
 # CARLA 2022
