@@ -71,7 +71,7 @@ We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptan
 
 [comment]: <> (We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptance notifications will be sent out by June 15, 2022.)
 
-The abstracts should use two to three pages (including references) and should be uploaded as pdf based on the following template (LaTeX or Word) which is based on Springer’s LNCS style: [Download Template](files/CARLA 2022-Templates.zip)
+The abstracts should use two to three pages (including references) and should be uploaded as pdf based on the following template (LaTeX or Word) which is based on Springer’s LNCS style: [Download Template](../files/CARLA 2022-Templates.zip)
 
 We will use the following EasyChair instance to collect and review the submissions: (https://easychair.org/my/conference?conf=carla2022)
 
