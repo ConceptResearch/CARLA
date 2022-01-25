@@ -1,9 +1,9 @@
-<p align="center">
+<p align="right">
   <img src="/files/HU_logo.jpg" />
 </p>
 
 
-![HU logo](/files/HU_logo.jpg)
+[comment]: <> (![HU logo](/files/HU_logo.jpg))
 
 # CARLA 2022
 
