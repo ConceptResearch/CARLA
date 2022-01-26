@@ -1,5 +1,5 @@
 <p float="center">
-  <img align="center" src="/CARLA/carla_workshop/logos.PNG" width="20%" />
+  <img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />
 </p>
 
 
