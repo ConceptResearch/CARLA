@@ -1,6 +1,6 @@
 <p float="right">
   <img align="right" src="/CARLA/carla_workshop/dfg.jpg" width="20%" />
-  <img src="/CARLA/carla_workshop/space.jpg" width="20%" />
+  <img src="/CARLA/carla_workshop/space.PNG" width="20%" />
   <img align="center" src="/CARLA/carla_workshop/Logo_SFB1412_Register_en.jpg" width="25%" />
   <img align="left" src="/CARLA/carla_workshop/HU_logo.jpg" width="10%" /> 
 </p>
