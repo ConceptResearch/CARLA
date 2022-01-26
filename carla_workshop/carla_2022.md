@@ -1,9 +1,7 @@
 <p float="left">
-  <img src="/CARLA/carla_workshop/dfg.jpg" width="20%" />
-  <img src="/CARLA/carla_workshop/space.PNG" width="4%" />
-  <img src="/CARLA/carla_workshop/Logo_SFB1412_Register_en.jpg" width="25%" />
-  <img src="/CARLA/carla_workshop/space.PNG" width="4%" />
-  <img src="/CARLA/carla_workshop/HU_logo.jpg" width="35%" /> 
+  <img align="right" src="/CARLA/carla_workshop/dfg.jpg" width="20%" />
+  <img align="center" src="/CARLA/carla_workshop/Logo_SFB1412_Register_en.jpg" width="25%" />
+  <img align="left" src="/CARLA/carla_workshop/HU_logo.jpg" width="35%" /> 
 </p>
 
 
