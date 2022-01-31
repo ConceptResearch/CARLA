@@ -7,7 +7,7 @@
 
 [comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
 
-The first international workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020 and 2021. Currently, we are organizing a fourth (potentially hybrid) workshop “Concepts in Action: Representation, Learning, and Application” (CARLA) in 2022. In addition to a general main session, CARLA 2022 will feature a special session on concepts and register, in relation to the Collaborative Research Center [CRC1412](https://sfb1412.hu-berlin.de/) "Register" at the Humboldt University of Berlin.
+The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020 and 2021. Currently, we are organizing a fourth (potentially hybrid) workshop “Concepts in Action: Representation, Learning, and Application” (CARLA) in 2022. In addition to a general main session, CARLA 2022 will feature a special session on concepts and register, in relation to the Collaborative Research Center [CRC1412](https://sfb1412.hu-berlin.de/) "Register" at the Humboldt University of Berlin.
 
 ## Time and Venue:
 
@@ -22,18 +22,18 @@ Humboldt University of Berlin, Germany
 
 ### Special session: (22. August)
 
-[Asif Agha](https://anthropology.sas.upenn.edu/people/asif-agha), Department of Anthropology, University of Pennsylvania
+[**Asif Agha**](https://anthropology.sas.upenn.edu/people/asif-agha), Department of Anthropology, University of Pennsylvania
 
-[Pia Knoeferle](http://amor.cms.hu-berlin.de/~knoeferp/index.html), Department of German Studies and Linguistics, Humboldt University of Berlin
+[**Pia Knoeferle**](http://amor.cms.hu-berlin.de/~knoeferp/index.html), Department of German Studies and Linguistics, Humboldt University of Berlin
 
 
 ### Main session: (23-24. August)
 
-[Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
+[**Roberto G. de Almeida**](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html), Department of Psychology, Concordia University
 
-[Regine Eckardt](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
+[**Regine Eckardt**](https://www.ling.uni-konstanz.de/en/eckardt/professors/firstname-surname/ueber-mich/), Department of Linguistics, University of Konstanz
 
-[Martha Lewis](https://marthaflinderslewis.wordpress.com/), Department of Engineering Mathematics, University of Bristol
+[**Martha Lewis**](https://marthaflinderslewis.wordpress.com/), Department of Engineering Mathematics, University of Bristol
 
 
 
@@ -84,16 +84,16 @@ Depending on the number and quality of the received submissions, selected contri
 ## Program Committee: 
 
 ### Local Organizers:
-[**Mingya Liu**](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu) & [**Stephanie Rotter**](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
+[Mingya Liu](https://www.angl.hu-berlin.de/department/staff-faculty/professors/liu) & [Stephanie Rotter](https://stephanierotter.github.io/), Department of English and American Studies, Humboldt University of Berlin  
 
 ### External Organizers:
-[**Caitlyn Antal**](https://psycholinguistics.weebly.com/caitlyn-antal.html), Department of Psychology, McGill University  
-[**Lucas Bechberger**](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
-[**Viviana Haase**](https://www.ini.rub.de/the_institute/people/viviana-haase/), Institute for Philosophy II, Ruhr University Bochum  
-**Nicolás Araneda Hinrichs**, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
-[**Stefan Schneider**](http://www.sschneider.de/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
-[**Corina Strößner**](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
-**Paola Vernillo**, Department of Modern Languages, Literatures, and Cultures, Alma Mater Studiorum - University of Bologna
+[Caitlyn Antal](https://psycholinguistics.weebly.com/caitlyn-antal.html), Department of Psychology, McGill University  
+[Lucas Bechberger](https://lucas-bechberger.de/), Institute of Cognitive Science, Osnabrück University  
+[Viviana Haase](https://www.ini.rub.de/the_institute/people/viviana-haase/), Institute for Philosophy II, Ruhr University Bochum  
+Nicolás Araneda Hinrichs, Institute for Applied Linguistics and Translatology, University Leipzig & Laboratory for Psycholinguistics, University Concepción  
+[Stefan Schneider](http://www.sschneider.de/), Faculty of Computer Science, Otto von Guericke University Magdeburg  
+[Corina Strößner](https://www.corinastroessner.com/), Emmy Noether Group “From perception to belief and back again”, Ruhr University Bochum  
+Paola Vernillo, Department of Modern Languages, Literatures, and Cultures, Alma Mater Studiorum - University of Bologna
 
 # Contact
 Please contact Stephanie Rotter (rotterst at hu-berlin.de) for any questions.
