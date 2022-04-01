@@ -55,23 +55,8 @@ Tba
 |  |  |  |
 |-----------|-----------|-----------|
 |  | **€** |  |
-| **Asiagourmet** <br /> *Asian* <br /> S-Bahnhof Berlin-Friedrichstraße <br /> Open 10-22 | **Bäcker Wiedemann** <br /> 
-    *Bakery* <br />
-    Friedrichstraße 149 <br />
-    6.30-18 | **Café Haferkater** <br />
-    *Porridge, bowls* 🌿 <br />
-    S-Bahnhof Berlin-Friedrichstraße <br />
-    7-19 |
-| **Esra** <br />
-    *Libanese fast food* 🌿<br />
-    Oranienburger Str. 87<br />
-    10-1 | **Hegels Gastronomie**<br />
-    *Cafeteria* <br />
-    Hegelpl. 4 (In DOR 24)<br />
-    10-18 | **Kaffeeserie**<br />
-    *Bowls, sandwiches, baked goods* 🌿<br />
-    Universitätsstr. 2<br />
-    8-20 | 
+| **Asiagourmet** <br /> *Asian* <br /> S-Bahnhof Berlin-Friedrichstraße <br /> Open 10-22 | **Bäcker Wiedemann** <br /> *Bakery* <br /> Friedrichstraße 149 <br /> 6.30-18 | **Café Haferkater** <br /> *Porridge, bowls* 🌿 <br /> S-Bahnhof Berlin-Friedrichstraße <br /> 7-19 | 
+| **Esra** <br /> *Libanese fast food* 🌿<br /> Oranienburger Str. 87<br /> 10-1 | **Hegels Gastronomie**<br /> *Cafeteria* <br /> Hegelpl. 4 (In DOR 24) <br /> 10-18 | **Kaffeeserie**<br /> *Bowls, sandwiches, baked goods* 🌿<br /> Universitätsstr. 2<br /> 8-20 | 
 | **Mishba**<br />
     *Burritos*🌿 <br />
     Friedrichstraße 98 (Entrance to U6)<br />
