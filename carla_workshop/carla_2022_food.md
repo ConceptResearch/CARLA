@@ -55,8 +55,7 @@ Tba
 |  |  |  |
 |-----------|-----------|-----------|
 |  | **€** |  |
-| **Asiagourmet** 
-    *Asian* <br /> S-Bahnhof Berlin-Friedrichstraße <br /> Open 10-22 | **Bäcker Wiedemann** <br /> 
+| **Asiagourmet** <br /> *Asian* <br /> S-Bahnhof Berlin-Friedrichstraße <br /> Open 10-22 | **Bäcker Wiedemann** <br /> 
     *Bakery* <br />
     Friedrichstraße 149 <br />
     6.30-18 | **Café Haferkater** <br />
