@@ -11,9 +11,9 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 
 ## Time and Venue:
 
-**Date:** 22-24. August 2022  
-**Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
-Humboldt University of Berlin, Germany
+&nbsp; &nbsp; &nbsp; **Date:** 22-24. August 2022  
+&nbsp; &nbsp; &nbsp; **Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
+&nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany
 
 ### Practical information:
 
