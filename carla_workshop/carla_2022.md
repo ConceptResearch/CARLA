@@ -18,9 +18,9 @@ Humboldt University of Berlin, Germany
 ### More information on Berlin:
 [Venue](carla_2022_venue)
 
-[Accommodation](CARLA_2022_accommodation)
+[Accommodation](carla_2022_accommodation)
 
-[Restaurants](CARLA_2022_food)
+[Restaurants](carla_2022_food)
 
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
