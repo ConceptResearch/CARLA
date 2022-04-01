@@ -1,6 +1,6 @@
 ## Important Information
 
-### Important phone numbers
+### Phone numbers
 
 Police: 110\
 Ambulance: 112\
@@ -19,7 +19,7 @@ Charité, Philippstr. 10, 10117 Berlin
 Aschenbachs Apotheke, Georgenstr. 25: \
 &nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 7am-8pm, Sat 10am-5pm\
 Dorotheenstadt Apotheke, Friedrichstr. 151 Ecke Dorotheenstr.: \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 8am-7pm, Sat 9am-2pm \
+&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 8am-7pm, Sat 9am-2pm 
 
 ***
 
