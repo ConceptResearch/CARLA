@@ -54,4 +54,6 @@ Tba
 |  |  |  |
 | ----------- | ----------- | ----------- |
 |  | **€** |  |
-| **Asiagourmet** | **Bäcker Wiedemann**  | **Café Haferkater** |
+| **Asiagourmet** 
+| **Bäcker Wiedemann**  
+| **Café Haferkater** |
