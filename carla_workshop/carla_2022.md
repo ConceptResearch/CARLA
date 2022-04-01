@@ -15,12 +15,15 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 **Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
 Humboldt University of Berlin, Germany
 
-### More information on Berlin:
-[Venue](carla_2022_venue)
+### Practical information:
 
-[Accommodation](carla_2022_accommodation)
+[General](carla_2022_general)
 
-[Important information and restaurants](carla_2022_food)
+[How to get here](carla_2022_venue)
+
+[Where to stay](carla_2022_accommodation)
+
+[Where to eat](carla_2022_food)
 
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
