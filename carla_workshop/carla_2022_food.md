@@ -54,13 +54,4 @@ Tba
 |  |  |  |
 | ----------- | ----------- | ----------- |
 |  | **€** |  |
-| **Asiagourmet**
-    *Asian* 
-    S-Bahnhof Berlin-Friedrichstraße 
-    Open 10-22 | **Bäcker Wiedemann** 
-    *Bakery* 
-    Friedrichstraße 149 
-    6.30-18 | **Café Haferkater** 
-    *Porridge, bowls* :herb: 
-    S-Bahnhof Berlin-Friedrichstraße 
-    7-19 |
+| **Asiagourmet** | **Bäcker Wiedemann**  | **Café Haferkater** |
