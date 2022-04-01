@@ -54,9 +54,7 @@ Tba
 |  |  |  |
 | ----------- | ----------- | ----------- |
 |  | **€** |  |
-| **Asiagourmet** 
-    <br > *Asian* <br />
-    <br > S-Bahnhof Berlin-Friedrichstraße <br />
+| **Asiagourmet**  <br > *Asian* <br /> <br > S-Bahnhof Berlin-Friedrichstraße <br />
     Open 10-22 | **Bäcker Wiedemann** 
     <br > *Bakery* <br />
     <br > Friedrichstraße 149 <br />
