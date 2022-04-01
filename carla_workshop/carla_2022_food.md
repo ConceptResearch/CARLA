@@ -1,15 +1,15 @@
 ## Important Information
 
-**Important phone numbers**
+### Important phone numbers
 
-Police: 110 <\b>
+Police: 110\
 Ambulance: 112\
 Taxi: +49 30 44 33 22; +49 30 210 10 20\
 University security: +49 30 2093 2416
 
 ***
 
-**Health**
+### Health
 
 *Emergency rooms*\
 St. Hedwig Hospital, Große Hamburger Str. 5, 10115 Berlin\
@@ -23,7 +23,7 @@ Dorotheenstadt Apotheke, Friedrichstr. 151 Ecke Dorotheenstr.: \
 
 ***
 
-**Copyshops**\
+### Copyshops
 
 Sprintout, Georgenstr. 190\
 &nbsp;&nbsp;&nbsp;&nbsp;+4930235538850\
@@ -36,13 +36,13 @@ Copy Clara, Tucholskystr. 11 \
 
 ***
 
-**Internet**\
+### Internet
 
 eduroam
 
 ***
 
-**Workspace during the conference**\
+### Workspace during the conference 
 
 Tba
 
