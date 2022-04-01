@@ -60,7 +60,7 @@ Tba
     *Bakery* \
     Friedrichstraße 149 \
     6.30-18 | **Café Haferkater** \
-    *Porridge, bowls* 🌿 \
+    *Porridge, bowls* :herb: \
     S-Bahnhof Berlin-Friedrichstraße \
     7-19 |
 | **Esra** \
