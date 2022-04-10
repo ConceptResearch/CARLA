@@ -1,4 +1,4 @@
-![main entrance of castle](/files/pictures/schloss_haupteingang.jpg)
+![wordcloud](/files/pictures/wordcloud_final.png)
 
 ## Conceptuccino
 
