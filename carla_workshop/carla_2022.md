@@ -17,10 +17,10 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 
 ### Practical information:
 
-&nbsp; &nbsp; &nbsp; [General](carla_2022_general)
-&nbsp; &nbsp; &nbsp; [How to get here](carla_2022_venue)
-&nbsp; &nbsp; &nbsp; [Where to stay](carla_2022_accommodation)
-&nbsp; &nbsp; &nbsp; [Where to eat](carla_2022_food)
+&nbsp; &nbsp; &nbsp; [General](carla_2022_general)<br/>
+&nbsp; &nbsp; &nbsp; [How to get here](carla_2022_venue) & [Where to find travel regulations (COVID-19)](carla_2022_travel_regulation)<br/>
+&nbsp; &nbsp; &nbsp; [Where to stay](carla_2022_accommodation)<br/>
+&nbsp; &nbsp; &nbsp; [Where to eat](carla_2022_food)<br/>
 
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
