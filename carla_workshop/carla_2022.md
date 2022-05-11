@@ -76,7 +76,7 @@ In addition to the general main session on concepts, we would like to draw atten
 
 ## Submission and Publication:
 
-We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptance notifications will be sent out by June 15, 2022.
+We invite the submission of abstracts via EasyChair until **May 22, 2022**. Acceptance notifications will be sent out by June 15, 2022.
 
 [comment]: <> (We invite the submission of abstracts via EasyChair until May 15, 2022. Acceptance notifications will be sent out by June 15, 2022.)
 
