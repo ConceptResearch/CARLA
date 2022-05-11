@@ -7,7 +7,9 @@ Concepts, as a subject of discussion since antiquity, are central to human cogni
 **Conceptuccino** used to be the name of an informal reading group on concepts at the [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html). Taking it from there, we aim to establish this website as a platform for all interested concept researchers. This website features links to relevant [research projects](concept_research/research_projects.md) and [publications](concept_research/literature.md), an interdisciplinary mailing list, and a series of [workshops](carla_workshop/the_workshop_series.md).
 
 **News**
-- 25.01.2022: The [CARLA 2022 Call for Submissions](carla_workshop/carla_2022.md) is now online. [Submission](https://easychair.org/my/conference?conf=carla2022) is open until May 15, 2021. 
+- 11.05.2021: The submission deadline for the [CARLA 2022 workshop](carla_workshop/carla_2022.md) has been extended to May 22!
+- 15.04.2022: Second [CARLA 2022 Call for Submissions](carla_workshop/carla_2022.md)
+- 25.01.2022: The [CARLA 2022 Call for Submissions](carla_workshop/carla_2022.md) is now online. [Submission](https://easychair.org/my/conference?conf=carla2022) is open until May 15, 2022. 
 - 25.08.2021: Assignment of posters to poster sessions has been [uploaded](carla_workshop/carla_2021.md).
 - 13.08.2021: [Registration](https://summerofknowledge.inf.unibz.it/registration-bosk-2021/) for [CARLA 2021](carla_workshop/carla_2021.md) has opened.
 - 12.08.2021: Our [CARLA edited volume](https://link.springer.com/book/10.1007/978-3-030-69823-2) (based on the [CARLA 2018 workshop](carla_workshop/carla_2018.md)) has been finally published as open access book.
