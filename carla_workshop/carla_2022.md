@@ -14,6 +14,7 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 &nbsp; &nbsp; &nbsp; **Date:** 22-24. August 2022  
 &nbsp; &nbsp; &nbsp; **Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
 &nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany
+&nbsp; &nbsp; &nbsp; **Fee:** 15 Euro
 
 ### Practical information:
 
@@ -85,6 +86,18 @@ The abstracts should use two to three pages (including references) and should be
 We will use the following EasyChair instance to collect and review the submissions: [https://easychair.org/my/conference?conf=carla2022](https://easychair.org/my/conference?conf=carla2022)
 
 Depending on the number and quality of the received submissions, selected contributions may be published after the workshop. For planning reasons, please indicate during the submission procedure whether you are interested in a publication in the form of conference proceedings.
+
+
+## Accepted Submissions: 
+
+**The following submissions have been accepted for the Special Session**
+Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*
+Stephanie Rotter and Mingya Liu **
+Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*
+Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*
+
+**The following submissions have been accepted for the Main Session**
+
 
 ## Program Committee: 
 
