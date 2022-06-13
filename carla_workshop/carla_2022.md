@@ -90,7 +90,8 @@ Depending on the number and quality of the received submissions, selected contri
 
 ## Accepted Submissions: 
 
-**The following submissions have been accepted for the Special Session**<br/>
+**The following submissions have been accepted for the Special Session**
+
 - Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*<br/>
 - Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* <br/>
 - Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*<br/>
