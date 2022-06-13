@@ -91,10 +91,10 @@ Depending on the number and quality of the received submissions, selected contri
 ## Accepted Submissions: 
 
 **The following submissions have been accepted for the Special Session**<br/>
-&nbsp; &nbsp; Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*<br/>
-&nbsp; &nbsp; Stephanie Rotter and Mingya Liu ** <br/>
-&nbsp; &nbsp; Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*<br/>
-&nbsp; &nbsp; Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
+&nbsp; Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*<br/>
+&nbsp; Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* <br/>
+&nbsp; Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*<br/>
+&nbsp; Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
 
 **The following submissions have been accepted for the Main Session**
 
