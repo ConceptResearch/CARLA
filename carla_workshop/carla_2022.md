@@ -13,7 +13,7 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 
 &nbsp; &nbsp; &nbsp; **Date:** 22-24. August 2022  
 &nbsp; &nbsp; &nbsp; **Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
-&nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany
+&nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany<br/>
 &nbsp; &nbsp; &nbsp; **Fee:** 15 Euro
 
 ### Practical information:
@@ -90,11 +90,11 @@ Depending on the number and quality of the received submissions, selected contri
 
 ## Accepted Submissions: 
 
-**The following submissions have been accepted for the Special Session**
-Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*
-Stephanie Rotter and Mingya Liu **
-Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*
-Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*
+**The following submissions have been accepted for the Special Session**<br/>
+&nbsp; &nbsp; Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*<br/>
+&nbsp; &nbsp; Stephanie Rotter and Mingya Liu ** <br/>
+&nbsp; &nbsp; Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*<br/>
+&nbsp; &nbsp; Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
 
 **The following submissions have been accepted for the Main Session**
 
