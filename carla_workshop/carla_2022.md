@@ -94,7 +94,7 @@ Depending on the number and quality of the received submissions, selected contri
 
 - Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective*<br/>
 - Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* <br/>
-- Gohar Schnelle, Felix Bildhauer and Roland Schäfer *Reconstructing the Context from the Result An approach to identify situational parameters in historical texts and web data*<br/>
+- Zahra Farokhnejad *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* <br/>
 - Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
 
 **The following submissions have been accepted for the Main Session**
