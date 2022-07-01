@@ -92,25 +92,25 @@ Depending on the number and quality of the received submissions, selected contri
 
 **The following submissions have been accepted for the Special Session**
 
-- Zahra Farokhnejad *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* <br/>
-- Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective* [abstract](..carla_workshop/abstracts_2022/Mortezapour.pdf) <br/>
-- Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* [abstract](..carla_workshop/abstracts_2022/Rotter_Liu.pdf) <br/>
-- Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
+- Zahra Farokhnejad: *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* <br/>
+- Vahid Mortezapour: *Investigating inter-individual variation in register from social networks perspective* [abstract](..carla_workshop/abstracts_2022/Mortezapour.pdf) <br/>
+- Stephanie Rotter and Mingya Liu: *Register-sensitivity of quantifier use: no vs. any in English* [abstract](..carla_workshop/abstracts_2022/Rotter_Liu.pdf) <br/>
+- Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle: *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
 
 **The following submissions have been accepted for the Main Session**
 
-- Caitlyn Antal and Roberto G. de Almeida *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*<br/>
-- Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou *Social Spaces as Conceptual Spaces: Feminism as a Case Study*<br/>
-- Mingya Liu *The concepts of IF in natural language: An experimental approach*<br/>
-- Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre *Contrasting the semantic typology biases of Deaf and heares in their conceptualization of time and space*<br/>
-- Laura Pissani and Roberto de Almeida *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* <br/>
-- Mikuláš Preininger, James Brand and Adam Kříž *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*<br/>
-- Uta Priss *A Concept Inventory for Teaching Introductory Mathematics*<br/>
-- Kyan Salehi and Roberto G. de Almeida *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task*<br/>
-- Stefan Schneider and Andreas Nürnberger *Do Euler diagrams approximate Card Sorting?*<br/>
-- Yenan Sun *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin*<br/>
-- Rosario Tomasello *Brain mechanisms of concept representation and learning in brain and mind*<br/>
-- Joost Zwarts *Metaphor alignment in complex concepts*<br/>
+- Caitlyn Antal and Roberto G. de Almeida: *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*<br/>
+- Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou: *Social Spaces as Conceptual Spaces: Feminism as a Case Study*<br/>
+- Mingya Liu: *The concepts of IF in natural language: An experimental approach*<br/>
+- Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre: *Contrasting the semantic typology biases of Deaf and heares in their conceptualization of time and space*<br/>
+- Laura Pissani and Roberto de Almeida: *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* <br/>
+- Mikuláš Preininger, James Brand and Adam Kříž: *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*<br/>
+- Uta Priss: *A Concept Inventory for Teaching Introductory Mathematics*<br/>
+- Kyan Salehi and Roberto G. de Almeida: *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task*<br/>
+- Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?*<br/>
+- Yenan Sun: *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin*<br/>
+- Rosario Tomasello: *Brain mechanisms of concept representation and learning in brain and mind*<br/>
+- Joost Zwarts: *Metaphor alignment in complex concepts*<br/>
 
 ## Program Committee: 
 
