@@ -92,9 +92,9 @@ Depending on the number and quality of the received submissions, selected contri
 
 **The following submissions have been accepted for the Special Session**
 
-- Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective* [abstract](..carla_workshop/abstracts_2022/Mortezapour.pdf) <br/>
-- Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* <br/>
 - Zahra Farokhnejad *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* <br/>
+- Vahid Mortezapour *Investigating inter-individual variation in register from social networks perspective* [abstract](..carla_workshop/abstracts_2022/Mortezapour.pdf) <br/>
+- Stephanie Rotter and Mingya Liu *Register-sensitivity of quantifier use: no vs. any in English* [abstract](..carla_workshop/abstracts_2022/Rotter_Liu.pdf) <br/>
 - Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading*<br/>
 
 **The following submissions have been accepted for the Main Session**
