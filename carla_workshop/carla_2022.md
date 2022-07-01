@@ -99,18 +99,18 @@ Depending on the number and quality of the received submissions, selected contri
 
 **The following submissions have been accepted for the Main Session**
 
-- Caitlyn Antal and Roberto G. de Almeida: *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*<br/>
-- Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou: *Social Spaces as Conceptual Spaces: Feminism as a Case Study*<br/>
-- Mingya Liu: *The concepts of IF in natural language: An experimental approach*<br/>
-- Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre: *Contrasting the semantic typology biases of Deaf and heares in their conceptualization of time and space*<br/>
-- Laura Pissani and Roberto de Almeida: *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* <br/>
+- Caitlyn Antal and Roberto G. de Almeida: *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives* [abstract](abstracts_2022/Antal_de-Almeida.pdf)<br/>
+- Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou: *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [abstract](abstracts_2022/Bendifallah_et_al.pdf) <br/>
+- Mingya Liu: *The concepts of IF in natural language: An experimental approach* [abstract](abstracts_2022/Liu.pdf) <br/>
+- Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre: *Contrasting the semantic typology biases of Deaf and heares in their conceptualization of time and space* [abstract](abstracts_2022/Macedo_et_al.pdf) <br/>
+- Laura Pissani and Roberto de Almeida: *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [abstract](abstracts_2022/Pissani_de-Almeida.pdf) <br/>
 - Mikuláš Preininger, James Brand and Adam Kříž: *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*<br/>
-- Uta Priss: *A Concept Inventory for Teaching Introductory Mathematics*<br/>
-- Kyan Salehi and Roberto G. de Almeida: *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task*<br/>
-- Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?*<br/>
-- Yenan Sun: *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin*<br/>
-- Rosario Tomasello: *Brain mechanisms of concept representation and learning in brain and mind*<br/>
-- Joost Zwarts: *Metaphor alignment in complex concepts*<br/>
+- Uta Priss: *A Concept Inventory for Teaching Introductory Mathematics* [abstract](abstracts_2022/Preininger_et_al.pdf)<br/>
+- Kyan Salehi and Roberto G. de Almeida: *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task* [abstract](abstracts_2022/Salehi_de-Almeida.pdf)<br/>
+- Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?* [abstract](abstracts_2022/Schneider_Nürnberger.pdf)<br/>
+- Yenan Sun: *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [abstract](abstracts_2022/Sun.pdf) <br/>
+- Rosario Tomasello: *Brain mechanisms of concept representation and learning in brain and mind* [abstract](abstracts_2022/Tomasello.pdf) <br/>
+- Joost Zwarts: *Metaphor alignment in complex concepts* [abstract](abstracts_2022/Zwarts.pdf)<br/>
 
 ## Program Committee: 
 
