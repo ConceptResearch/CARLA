@@ -167,6 +167,9 @@ Depending on the number and quality of the received submissions, selected contri
 - 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics*
 - 16:30 - 16:45 Closing ceremony
 
+## Registration
+
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0) for the registration form. There will be a fee of 15 Euro which will be collected on site. 
 
 ## Program Committee: 
 
