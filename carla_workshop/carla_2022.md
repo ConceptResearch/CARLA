@@ -133,7 +133,7 @@ Depending on the number and quality of the received submissions, selected contri
 
 ### Day 2 - Tuesday: Main Session
 
-- 9:00- Registration/certificate(SuB24)
+- 9:00- Registration
 - 9:30 - 9:45 Warm up / opening
 - 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida, *How the brain composes meaning*
 - 10:45 - 11:20 Rosario Tomasello, *Brain mechanisms of concept representation and learning in brain and mind*
@@ -152,6 +152,7 @@ Depending on the number and quality of the received submissions, selected contri
 
 ### Day 3 - Wednesday: Main Session
 
+- 9:00 - Registration
 - 9:00 - 9:30 Business meeting
 - (Break)
 - 9:45 - 10:45 **Keynote talk** Martha Lewis, *Compositionality in vector space models of meaning*
