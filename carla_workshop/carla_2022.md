@@ -14,7 +14,11 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 &nbsp; &nbsp; &nbsp; **Date:** 22-24. August 2022  
 &nbsp; &nbsp; &nbsp; **Venue:** Dorotheenstr. 24, 10117 Berlin, Room 1.101/1.102/1.103<br/>
 &nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany<br/>
-&nbsp; &nbsp; &nbsp; **Fee:** 15 Euro
+&nbsp; &nbsp; &nbsp; **Fees** (collected on site): early bird by July 31st - 15 Euro, from August 1st - 30 Euro.
+
+## Registration
+
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0) for the registration form. 
 
 ### Practical information:
 
@@ -167,9 +171,6 @@ Depending on the number and quality of the received submissions, selected contri
 - 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics*
 - 16:30 - 16:45 Closing ceremony
 
-## Registration
-
-Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0) for the registration form. There will be a fee of 15 Euro which will be collected on site. 
 
 ## Program Committee: 
 
