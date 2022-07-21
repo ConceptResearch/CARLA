@@ -16,7 +16,7 @@ The first workshop “Concepts in Action: Representation, Learning, and Applicat
 &nbsp; &nbsp; &nbsp; Humboldt University of Berlin, Germany<br/>
 &nbsp; &nbsp; &nbsp; **Fees** (collected on site): early bird by July 31st - 15 Euro, from August 1st - 30 Euro.
 
-## Registration
+### Registration
 
 Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0) for the registration form. 
 
