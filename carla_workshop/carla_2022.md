@@ -122,7 +122,7 @@ Depending on the number and quality of the received submissions, selected contri
 
 - Start at 9:00- Registration
 - 9:30 - 9:45 Opening Ceremony
-- 9:45 - 10:45 **Keynote talk**: Asif Agha, *tba*
+- 9:45 - 10:45 **Keynote talk**: Asif Agha, *Where does “the economy” come from*
 - 10:45 - 11:00 Coffee break
 - 11:00 - 11:45 Vahid Mortezapour, *Investigating inter-individual variation in register from social networks perspective*
 - 11:45 - 12:30 Stephanie Rotter and Mingya Liu, *Register-sensitivity of quantifier use: no vs. any in English*
