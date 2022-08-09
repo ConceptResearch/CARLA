@@ -108,7 +108,7 @@ Depending on the number and quality of the received submissions, selected contri
 - Mingya Liu: *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf) <br/>
 - Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre: *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) <br/>
 - Laura Pissani and Roberto de Almeida: *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf) <br/>
-- Mikuláš Preininger, James Brand and Adam Kříž: *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*[[abstract]](abstracts_2022/Preininger_et_al.pdf)<br/>
+- Mikuláš Preininger, James Brand and Adam Kříž: *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)<br/>
 - Uta Priss: *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Preininger_et_al.pdf)<br/>
 - Kyan Salehi and Roberto G. de Almeida: *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task* [[abstract]](abstracts_2022/Salehi_de-Almeida.pdf) (cancelled)<br/>
 - Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)<br/>
