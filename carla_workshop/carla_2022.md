@@ -132,7 +132,7 @@ Depending on the number and quality of the received submissions, selected contri
 - 15:30 - 16:00 Coffee break
 - 16:00 - 17:00 **Keynote talk**: Pia Knoeferle, *The grounding of language processing: reflections on register*
 - 17:00 - General discussion
-- 18:00 Dinner/warm-up for the main session takes place at [*Maximilians*](https://www.maximilians-berlin.de/) [(Friedrichstraße 185-190, 10117 Berlin)](https://www.google.com/maps/place/Restaurant+Maximilians+Berlin/@52.5113326,13.3870163,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d07038fccd:0xee7212867d17fced!8m2!3d52.5113326!4d13.389205)
+- 18:00 Dinner/warm-up for the main session takes place in the restaurant [*Maximilians*](https://www.maximilians-berlin.de/) [(Friedrichstraße 185-190, 10117 Berlin)](https://www.google.com/maps/place/Restaurant+Maximilians+Berlin/@52.5113326,13.3870163,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d07038fccd:0xee7212867d17fced!8m2!3d52.5113326!4d13.389205)
 
 ### Day 2 - Tuesday: Main Session
 
