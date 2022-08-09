@@ -132,7 +132,7 @@ Depending on the number and quality of the received submissions, selected contri
 - 15:30 - 16:00 Coffee break
 - 16:00 - 17:00 **Keynote talk**: Pia Knoeferle, *The grounding of language processing: reflections on register*
 - 17:00 - General discussion
-- 18:00 Dinner/warm-up for the main session
+- 18:00 Dinner/warm-up for the main session takes place at [Five Rivers](https://five-rivers.de/en/home-2/) [Albrechtstraße 11, 10117 Berlin](https://www.google.com/maps/place/Five+Rivers+Restaurant/@52.5215019,13.382569,17z/data=!3m2!4b1!5s0x47a851c233dff36f:0x44d8b806e347dd0!4m5!3m4!1s0x47a8518ec0b27905:0x2eef6ff1d0485a7d!8m2!3d52.5215019!4d13.3847577)
 
 
 ### Day 2 - Tuesday: Main Session
