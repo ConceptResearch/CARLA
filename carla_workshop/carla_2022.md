@@ -165,7 +165,7 @@ Depending on the number and quality of the received submissions, selected contri
 - 11:35 - 12:10 Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou, *Social Spaces as Conceptual Spaces: Feminism as a Case Study*
 - 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Tobias Ungerer: *A priming approach to the representation of English argument structure constructions* 
+- 14:15 - 14:50 Tobias Ungerer, *A priming approach to the representation of English argument structure constructions* 
 - 14:50 - 15:25 Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre, *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space*
 - 15:25 - 15:55 Coffee break 
 - 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics*
