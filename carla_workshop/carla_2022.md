@@ -114,7 +114,7 @@ Depending on the number and quality of the received submissions, selected contri
 - Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)<br/>
 - Yenan Sun: *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) <br/>
 - Rosario Tomasello: *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf) <br/>
-- Tobias Ungerer: *A priming approach to the representation of English argument structure constructions* <br/>
+- Tobias Ungerer: *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) <br/>
 - Joost Zwarts: *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)<br/>
 
 
