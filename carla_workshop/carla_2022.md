@@ -97,13 +97,13 @@ Depending on the number and quality of the received submissions, selected contri
 
 - Start at 9:00- Registration
 - 9:30 - 9:45 Opening Ceremony
-- 9:45 - 10:45 **Keynote talk**: Asif Agha, *Where does “the economy” come from*
+- 9:45 - 10:45 **Keynote talk**: Asif Agha (University of Pennsylvania) - *Where does “the economy” come from*
 - 10:45 - 11:00 Coffee break
 - 11:00 - 11:45 Vahid Mortezapour (Universität zu Köln) - *Investigating inter-individual variation in register from social networks perspective* [[abstract]](abstracts_2022/Mortezapour.pdf)
 - 11:45 - 12:30 Stephanie Rotter and Mingya Liu (Humboldt-Universität zu Berlin) - *Register-sensitivity of quantifier use: no vs. any in English* [[abstract]](abstracts_2022/Rotter_Liu.pdf) 
 - 12:30 - 14:00 Lunch
 - 14:00 - 14:45 Zahra Farokhnejad (Humboldt-Universität zu Berlin) - *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* [[abstract]](abstracts_2022/Farokhnejad.pdf) (online talk)
-- 14:45 - 15:30	Valentina N. Pescuma<sup>1</sup>, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (<sup>1</sup>Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
+- 14:45 - 15:30	Valentina N. Pescuma<sup>*</sup>, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (<sup>*</sup>Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
 - 15:30 - 16:00 Coffee break
 - 16:00 - 17:00 **Keynote talk**: Pia Knoeferle (Humboldt-Universität zu Berlin) - *The grounding of language processing: reflections on register* (online talk)
 - 17:00 - General discussion
@@ -116,7 +116,7 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida (Concordia University) - *How the brain composes meaning*
 - 10:45 - 11:20 Rosario Tomasello (Freie Universität Berlin) - *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Caitlyn Antal<sup>1</sup> and Roberto G. de Almeida (<sup>1</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
+- 11:35 - 12:10 Caitlyn Antal<sup>*</sup> and Roberto G. de Almeida (<sup>*</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
 - 12:10 - 12:45 Yenan Sun (The Chinese University of Hong Kong) - *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
 - 12:45 - 14:15 Lunch
 - 14:15 - 14:50 Joost Zwarts (Utrecht University) - *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
@@ -133,16 +133,16 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:00 - Registration
 - 9:00 - 9:30 Business meeting
 - (Break)
-- 9:45 - 10:45 **Keynote talk** Martha Lewis, *Compositionality in vector space models of meaning*
-- 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger, *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
+- 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Oxford) - *Compositionality in vector space models of meaning*
+- 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou, *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
-- 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
+- 11:35 - 12:10 Lina Bendifallah<sup>*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
+- 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž (Charles University) - *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Tobias Ungerer, *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) 
-- 14:50 - 15:25 Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre, *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
+- 14:15 - 14:50 Tobias Ungerer (Concordia University) - *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) 
+- 14:50 - 15:25 Maria Noel Macedo<sup>*</sup>, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre (<sup>*</sup>Centro de Investigación Básica en Psicología. Montevideo, Uruguay) - *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
 - 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
+- 15:55 - 16:30 Uta Priss (Ostfalia University) - *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
 - 16:30 - 16:45 Closing ceremony
 
 
