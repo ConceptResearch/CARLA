@@ -133,7 +133,7 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:00 - Registration
 - 9:00 - 9:30 Business meeting
 - (Break)
-- 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Oxford) - *Compositionality in vector space models of meaning*
+- 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Bristol) - *Compositionality in vector space models of meaning*
 - 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
 - 11:35 - 12:10 Lina Bendifallah<sup>\*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>\*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
