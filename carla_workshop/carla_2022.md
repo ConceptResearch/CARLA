@@ -92,25 +92,6 @@ We will use the following EasyChair instance to collect and review the submissio
 Depending on the number and quality of the received submissions, selected contributions may be published after the workshop. For planning reasons, please indicate during the submission procedure whether you are interested in a publication in the form of conference proceedings.
 
 
-## Accepted Submissions: 
-
-**The following submissions have been accepted for the Main Session**
-
-- Caitlyn Antal and Roberto G. de Almeida: *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives* [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)<br/>
-- Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou: *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) <br/>
-- Mingya Liu: *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf) <br/>
-- Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre: *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) <br/>
-- Laura Pissani and Roberto de Almeida: *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf) <br/>
-- Mikuláš Preininger, James Brand and Adam Kříž: *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)<br/>
-- Uta Priss: *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Preininger_et_al.pdf)<br/>
-- Kyan Salehi and Roberto G. de Almeida: *Is the concept “car” accessed when recognizing “carpet”? Evidence from a word-picture congruency task* [[abstract]](abstracts_2022/Salehi_de-Almeida.pdf) (cancelled)<br/>
-- Stefan Schneider and Andreas Nürnberger: *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)<br/>
-- Yenan Sun: *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) <br/>
-- Rosario Tomasello: *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf) <br/>
-- Tobias Ungerer: *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) <br/>
-- Joost Zwarts: *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)<br/>
-
-
 ## Preliminary Schedule 
 ### Day 1 - Monday: Special Session
 
@@ -121,10 +102,10 @@ Depending on the number and quality of the received submissions, selected contri
 - 11:00 - 11:45 Vahid Mortezapour (Universität zu Köln) - *Investigating inter-individual variation in register from social networks perspective* [[abstract]](abstracts_2022/Mortezapour.pdf)
 - 11:45 - 12:30 Stephanie Rotter and Mingya Liu (Humboldt-Universität zu Berlin) - *Register-sensitivity of quantifier use: no vs. any in English* [[abstract]](abstracts_2022/Rotter_Liu.pdf) 
 - 12:30 - 14:00 Lunch
-- 14:00 - 14:45 Zahra Farokhnejad (Humboldt-Universität zu Berlin) - *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* [[abstract]](abstracts_2022/Farokhnejad.pdf)
-- 14:45 - 15:30	Valentina N. Pescuma, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
+- 14:00 - 14:45 Zahra Farokhnejad (Humboldt-Universität zu Berlin) - *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* [[abstract]](abstracts_2022/Farokhnejad.pdf) (online talk)
+- 14:45 - 15:30	Valentina N. Pescuma<sup>1</sup>, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (<sup>1</sup>Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
 - 15:30 - 16:00 Coffee break
-- 16:00 - 17:00 **Keynote talk**: Pia Knoeferle (Humboldt-Universität zu Berlin) - *The grounding of language processing: reflections on register*
+- 16:00 - 17:00 **Keynote talk**: Pia Knoeferle (Humboldt-Universität zu Berlin) - *The grounding of language processing: reflections on register* (online talk)
 - 17:00 - General discussion
 - 18:00 Dinner/warm-up for the main session takes place at the restaurant [*Maximilians*](https://www.maximilians-berlin.de/) [(Friedrichstraße 185-190, 10117 Berlin)](https://www.google.com/maps/place/Restaurant+Maximilians+Berlin/@52.5113326,13.3870163,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d07038fccd:0xee7212867d17fced!8m2!3d52.5113326!4d13.389205)
 
@@ -133,15 +114,15 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:00- Registration
 - 9:30 - 9:45 Warm up / opening
 - 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida, *How the brain composes meaning*
-- 10:45 - 11:20 Rosario Tomasello, *Brain mechanisms of concept representation and learning in brain and mind*
+- 10:45 - 11:20 Rosario Tomasello, *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Caitlyn Antal and Roberto G. de Almeida, *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*
-- 12:10 - 12:45 Yenan Sun, *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* 
+- 11:35 - 12:10 Caitlyn Antal and Roberto G. de Almeida, *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
+- 12:10 - 12:45 Yenan Sun, *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Joost Zwarts, *Metaphor alignment in complex concepts*
-- 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida, *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal*
+- 14:15 - 14:50 Joost Zwarts, *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
+- 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida, *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf)
 - 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Mingya Liu, *The concepts of IF in natural language: An experimental approach*
+- 15:55 - 16:30 Mingya Liu, *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf)
 - 16:30 - 17:30 **Keynote talk** Regine Eckardt, *Natural Concepts and Language Change*
 - 17:30 - 19:00 Social event 
 - 19:00 - Conference Dinner takes place at the [*Cana Restaurant*](https://www.canarestaurant.de/) [(Neue Roßstraße 11-12, 10179 Berlin)](https://www.google.com/maps/place/Cana+Restaurant+%26+Catering/@52.512298,13.4065307,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e2667caaa97:0x3f2526f6b5d97409!8m2!3d52.512298!4d13.4087194)
@@ -153,15 +134,15 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:00 - 9:30 Business meeting
 - (Break)
 - 9:45 - 10:45 **Keynote talk** Martha Lewis, *Compositionality in vector space models of meaning*
-- 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger, *Do Euler diagrams approximate Card Sorting?*
+- 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger, *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou, *Social Spaces as Conceptual Spaces: Feminism as a Case Study*
-- 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech*
+- 11:35 - 12:10 Lina Bendifallah, Heather Burnett, Igor Douven and Julie Abbou, *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
+- 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Tobias Ungerer, *A priming approach to the representation of English argument structure constructions* 
-- 14:50 - 15:25 Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre, *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space*
+- 14:15 - 14:50 Tobias Ungerer, *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) 
+- 14:50 - 15:25 Maria Noel Macedo, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre, *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
 - 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics*
+- 15:55 - 16:30 Uta Priss, *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
 - 16:30 - 16:45 Closing ceremony
 
 
