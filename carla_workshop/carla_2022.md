@@ -113,17 +113,17 @@ Depending on the number and quality of the received submissions, selected contri
 
 - 9:00- Registration
 - 9:30 - 9:45 Warm up / opening
-- 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida, *How the brain composes meaning*
-- 10:45 - 11:20 Rosario Tomasello, *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
+- 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida (Concordia University) - *How the brain composes meaning*
+- 10:45 - 11:20 Rosario Tomasello (Freie Universität Berlin) - *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Caitlyn Antal and Roberto G. de Almeida, *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
-- 12:10 - 12:45 Yenan Sun, *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
+- 11:35 - 12:10 Caitlyn Antal<sup>1</sup> and Roberto G. de Almeida (<sup>1</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
+- 12:10 - 12:45 Yenan Sun (The Chinese University of Hong Kong) - *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Joost Zwarts, *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
-- 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida, *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf)
+- 14:15 - 14:50 Joost Zwarts (Utrecht University) - *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
+- 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida (Concordia University) - *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf)
 - 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Mingya Liu, *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf)
-- 16:30 - 17:30 **Keynote talk** Regine Eckardt, *Natural Concepts and Language Change*
+- 15:55 - 16:30 Mingya Liu (Humboldt-Unviersität zu Berlin) *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf)
+- 16:30 - 17:30 **Keynote talk** Regine Eckardt (Universität Konstanz) - *Natural Concepts and Language Change*
 - 17:30 - 19:00 Social event 
 - 19:00 - Conference Dinner takes place at the [*Cana Restaurant*](https://www.canarestaurant.de/) [(Neue Roßstraße 11-12, 10179 Berlin)](https://www.google.com/maps/place/Cana+Restaurant+%26+Catering/@52.512298,13.4065307,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e2667caaa97:0x3f2526f6b5d97409!8m2!3d52.512298!4d13.4087194)
 
