@@ -96,8 +96,9 @@ Depending on the number and quality of the received submissions, selected contri
 ### Day 1 - Monday: Special Session
 
 - Start at 9:00- Registration
-- 9:30 - 9:45 Opening Ceremony
-- 9:45 - 10:45 **Keynote talk**: Asif Agha (University of Pennsylvania) - *Where does “the economy” come from*
+- Session Chair: Mingya Liu
+  - 9:30 - 9:45 Opening Ceremony
+  - 9:45 - 10:45 **Keynote talk**: Asif Agha (University of Pennsylvania) - *Where does “the economy” come from*
 - 10:45 - 11:00 Coffee break
 - 11:00 - 11:45 Vahid Mortezapour (Universität zu Köln) - *Investigating inter-individual variation in register from social networks perspective* [[abstract]](abstracts_2022/Mortezapour.pdf)
 - 11:45 - 12:30 Stephanie Rotter and Mingya Liu (Humboldt-Universität zu Berlin) - *Register-sensitivity of quantifier use: no vs. any in English* [[abstract]](abstracts_2022/Rotter_Liu.pdf) 
