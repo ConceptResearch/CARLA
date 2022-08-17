@@ -100,14 +100,17 @@ Depending on the number and quality of the received submissions, selected contri
   - 9:30 - 9:45 Opening Ceremony
   - 9:45 - 10:45 **Keynote talk**: Asif Agha (University of Pennsylvania) - *Where does “the economy” come from*
 - 10:45 - 11:00 Coffee break
-- 11:00 - 11:45 Vahid Mortezapour (Universität zu Köln) - *Investigating inter-individual variation in register from social networks perspective* [[abstract]](abstracts_2022/Mortezapour.pdf)
-- 11:45 - 12:30 Stephanie Rotter and Mingya Liu (Humboldt-Universität zu Berlin) - *Register-sensitivity of quantifier use: no vs. any in English* [[abstract]](abstracts_2022/Rotter_Liu.pdf) 
+- Session Chair: Valentina Pescuma
+  - 11:00 - 11:45 Vahid Mortezapour (Universität zu Köln) - *Investigating inter-individual variation in register from social networks perspective* [[abstract]](abstracts_2022/Mortezapour.pdf)
+  - 11:45 - 12:30 Stephanie Rotter and Mingya Liu (Humboldt-Universität zu Berlin) - *Register-sensitivity of quantifier use: no vs. any in English* [[abstract]](abstracts_2022/Rotter_Liu.pdf) 
 - 12:30 - 14:00 Lunch
-- 14:00 - 14:45 Zahra Farokhnejad (Humboldt-Universität zu Berlin) - *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* [[abstract]](abstracts_2022/Farokhnejad.pdf) (online talk)
-- 14:45 - 15:30	Valentina N. Pescuma<sup>\*</sup>, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (<sup>\*</sup>Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
+- Session Chair: Vahid Mortezapour
+  - 14:00 - 14:45 Zahra Farokhnejad (Humboldt-Universität zu Berlin) - *Code-switching across registers: Investigating the sociolinguistic functions of code-switching in bilingual Kurdish-Persian speech* [[abstract]](abstracts_2022/Farokhnejad.pdf) (online talk)
+  - 14:45 - 15:30	Valentina N. Pescuma<sup>\*</sup>, Camilo R. Ronderos, Aine Ito, Katja Maquate and Pia Knoeferle (<sup>\*</sup>Humboldt-Universität zu Berlin) - *Effects of Register and Morphosyntactic Congruence on Eye Movements During Sentence Reading* [[abstract]](abstracts_2022/Pescuma_et_al.pdf)
 - 15:30 - 16:00 Coffee break
-- 16:00 - 17:00 **Keynote talk**: Pia Knoeferle (Humboldt-Universität zu Berlin) - *The grounding of language processing: reflections on register* (online talk)
-- 17:00 - General discussion
+- Session Chair: Stephanie Rotter
+  - 16:00 - 17:00 **Keynote talk**: Pia Knoeferle (Humboldt-Universität zu Berlin) - *The grounding of language processing: reflections on register* (online talk)
+  - 17:00 - General discussion
 - 18:00 Dinner/warm-up for the main session takes place at the restaurant [*Maximilians*](https://www.maximilians-berlin.de/) [(Friedrichstraße 185-190, 10117 Berlin)](https://www.google.com/maps/place/Restaurant+Maximilians+Berlin/@52.5113326,13.3870163,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d07038fccd:0xee7212867d17fced!8m2!3d52.5113326!4d13.389205)
 
 ### Day 2 - Tuesday: Main Session
