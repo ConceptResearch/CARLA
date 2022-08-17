@@ -116,18 +116,22 @@ Depending on the number and quality of the received submissions, selected contri
 ### Day 2 - Tuesday: Main Session
 
 - 9:00- Registration
-- 9:30 - 9:45 Warm up / opening
-- 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida (Concordia University) - *How the brain composes meaning*
-- 10:45 - 11:20 Rosario Tomasello (Freie Universität Berlin) - *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
+- Session Chair: Mingya Liu
+  - 9:30 - 9:45 Warm up / opening
+  - 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida (Concordia University) - *How the brain composes meaning*
+  - 10:45 - 11:20 Rosario Tomasello (Freie Universität Berlin) - *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Caitlyn Antal<sup>\*</sup> and Roberto G. de Almeida (<sup>\*</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
-- 12:10 - 12:45 Yenan Sun (The Chinese University of Hong Kong) - *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
+- Session Chair: tba
+  - 11:35 - 12:10 Caitlyn Antal<sup>\*</sup> and Roberto G. de Almeida (<sup>\*</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
+  - 12:10 - 12:45 Yenan Sun (The Chinese University of Hong Kong) - *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Joost Zwarts (Utrecht University) - *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
-- 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida (Concordia University) - *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf)
-- 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Mingya Liu (Humboldt-Unviersität zu Berlin) *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf)
-- 16:30 - 17:30 **Keynote talk** Regine Eckardt (Universität Konstanz) - *Natural Concepts and Language Change*
+- Session Chair: Caitlyn Antal
+  - 14:15 - 14:50 Joost Zwarts (Utrecht University) - *Metaphor alignment in complex concepts* [[abstract]](abstracts_2022/Zwarts.pdf)
+  - 14:50 - 15:25 Laura Pissani and Roberto G. de Almeida (Concordia University) - *What happens to the literal meanings of metaphors? A review and a “minimalist” proposal* [[abstract]](abstracts_2022/Pissani_de-Almeida.pdf)
+- 15:25 - 15:55 Coffee break
+- Session Chair: Rosario Tomasello 
+  - 15:55 - 16:30 Mingya Liu (Humboldt-Unviersität zu Berlin) *The concepts of IF in natural language: An experimental approach* [[abstract]](abstracts_2022/Liu.pdf)
+  - 16:30 - 17:30 **Keynote talk** Regine Eckardt (Universität Konstanz) - *Natural Concepts and Language Change*
 - 17:30 - 19:00 Social event 
 - 19:00 - Conference Dinner takes place at the [*Cana Restaurant*](https://www.canarestaurant.de/) [(Neue Roßstraße 11-12, 10179 Berlin)](https://www.google.com/maps/place/Cana+Restaurant+%26+Catering/@52.512298,13.4065307,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e2667caaa97:0x3f2526f6b5d97409!8m2!3d52.512298!4d13.4087194)
 
@@ -137,16 +141,20 @@ Depending on the number and quality of the received submissions, selected contri
 - 9:00 - Registration
 - 9:00 - 9:30 Business meeting
 - (Break)
-- 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Bristol) - *Compositionality in vector space models of meaning*
-- 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
+- Session Chair: Roberto G. de Almeida
+  - 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Bristol) - *Compositionality in vector space models of meaning*
+  - 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Do Euler diagrams approximate Card Sorting?* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
-- 11:35 - 12:10 Lina Bendifallah<sup>\*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>\*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
-- 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž (Charles University) - *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
+- Session Chair: tba
+  - 11:35 - 12:10 Lina Bendifallah<sup>\*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>\*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
+  - 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž (Charles University) - *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
 - 12:45 - 14:15 Lunch
-- 14:15 - 14:50 Tobias Ungerer (Concordia University) - *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) 
-- 14:50 - 15:25 Maria Noel Macedo<sup>\*</sup>, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre (<sup>\*</sup>Centro de Investigación Básica en Psicología. Montevideo, Uruguay) - *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
+- Session Chair: Laura Pissani
+  - 14:15 - 14:50 Tobias Ungerer (Concordia University) - *A priming approach to the representation of English argument structure constructions* [[abstract]](abstracts_2022/Ungerer.pdf) 
+  - 14:50 - 15:25 Maria Noel Macedo<sup>\*</sup>, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre (<sup>\*</sup>Centro de Investigación Básica en Psicología. Montevideo, Uruguay) - *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
 - 15:25 - 15:55 Coffee break 
-- 15:55 - 16:30 Uta Priss (Ostfalia University) - *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
+- Session Chair: Laura Pissani
+  - 15:55 - 16:30 Uta Priss (Ostfalia University) - *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
 - 16:30 - 16:45 Closing ceremony
 
 
