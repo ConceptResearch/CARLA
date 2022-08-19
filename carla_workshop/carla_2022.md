@@ -121,7 +121,7 @@ Depending on the number and quality of the received submissions, selected contri
   - 9:45 - 10:45 **Keynote talk**: Roberto G. de Almeida (Concordia University) - *How the brain composes meaning*
   - 10:45 - 11:20 Rosario Tomasello (Freie Universität Berlin) - *Brain mechanisms of concept representation and learning in brain and mind* [[abstract]](abstracts_2022/Tomasello.pdf)
 - 11:20 - 11:35 Coffee break 
-- Session Chair: tba
+- Session Chair: Tobias Ungerer
   - 11:35 - 12:10 Caitlyn Antal<sup>\*</sup> and Roberto G. de Almeida (<sup>\*</sup>McGill University) - *Does semantic composition rely on predicate decomposition? Contrasting resultatives and depictives*  [[abstract]](abstracts_2022/Antal_de-Almeida.pdf)
   - 12:10 - 12:45 Yenan Sun (The Chinese University of Hong Kong) - *Separating Numerical Identity from Qualitative Identity: Evidence from Mandarin* [[abstract]](abstracts_2022/Sun.pdf) (online talk)
 - 12:45 - 14:15 Lunch
@@ -154,7 +154,7 @@ Depending on the number and quality of the received submissions, selected contri
   - 14:50 - 15:25 Maria Noel Macedo<sup>\*</sup>, Matias Yerro, Mauricio Castillo, Alejandro Fojo, Adriana de León, Maximiliano Meliande, Jorge Vivas and Roberto Aguirre (<sup>\*</sup>Centro de Investigación Básica en Psicología. Montevideo, Uruguay) - *Contrasting the semantic typology biases of deaf and hearers in their conceptualization of time and space* [[abstract]](abstracts_2022/Macedo_et_al.pdf) (online talk)
 - 15:25 - 15:55 Coffee break 
 - Session Chair: Laura Pissani
-  - 15:55 - 16:30 Uta Priss (Ostfalia University) - *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss_et_al.pdf)
+  - 15:55 - 16:30 Uta Priss (Ostfalia University) - *A Concept Inventory for Teaching Introductory Mathematics* [[abstract]](abstracts_2022/Priss.pdf)
 - 16:30 - 16:45 Closing ceremony
 
 
