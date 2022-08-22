@@ -143,7 +143,7 @@ Depending on the number and quality of the received submissions, selected contri
 - (Break)
 - Session Chair: Roberto G. de Almeida
   - 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Bristol) - *Compositionality in vector space models of meaning*
-  - 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *: Global vs. local card forming: Discrete alternatives of SpAM and total-set PRaM for evaluating conceptual judgments in a high-dimensional similarity space* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
+  - 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Global vs. local card forming: Discrete alternatives of SpAM and total-set PRaM for evaluating conceptual judgments in a high-dimensional similarity space* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
 - Session Chair: tba
   - 11:35 - 12:10 Lina Bendifallah<sup>\*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>\*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
