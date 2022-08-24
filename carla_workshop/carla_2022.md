@@ -145,7 +145,7 @@ Depending on the number and quality of the received submissions, selected contri
   - 9:45 - 10:45 **Keynote talk** Martha Lewis (University of Bristol) - *Compositionality in vector space models of meaning*
   - 10:45 - 11:20 Stefan Schneider and Andreas Nürnberger (Otto von Guericke University Magdeburg) - *Global vs. local card forming: Discrete alternatives of SpAM and total-set PRaM for evaluating conceptual judgments in a high-dimensional similarity space* [[abstract]](abstracts_2022/Schneider_Nürnberger.pdf)
 - 11:20 - 11:35 Coffee break 
-- Session Chair: tba
+- Session Chair: Regine Eckardt
   - 11:35 - 12:10 Lina Bendifallah<sup>\*</sup>, Heather Burnett, Igor Douven and Julie Abbou (<sup>\*</sup>Université Paris Cité) *Social Spaces as Conceptual Spaces: Feminism as a Case Study* [[abstract]](abstracts_2022/Bendifallah_et_al.pdf) 
   - 12:10 - 12:45 Mikuláš Preininger, James Brand and Adam Kříž (Charles University) - *Variation and stability in conceptual representations: Insights from the socio-semantics of Czech* [[abstract]](abstracts_2022/Preininger_et_al.pdf)
 - 12:45 - 14:15 Lunch
