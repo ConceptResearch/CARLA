@@ -4,7 +4,6 @@
 
 
 # CARLA 2023
-
 [comment]: <> ( ### CARLA 2023 goes fully in-person.)
 
 The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2022. 
