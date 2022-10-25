@@ -29,7 +29,7 @@ Special session: (23 August)
 
 &nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://tba), Psychology and Language Sciences, UCL
 
-&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill
+&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill University
 
 &nbsp; &nbsp; &nbsp; [**John Perry**](https://tba), Philosophy, Stanford [tentative]
 
@@ -41,7 +41,7 @@ Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Psychology, University of Cambridge [tentative]
 
-&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Linguistics, Concordia
+&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Linguistics, Concordia University
 
 
 ## Call for Abstracts:
