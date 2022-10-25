@@ -1,5 +1,5 @@
 [comment]: <> (<p float="center">)
-  [comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
+[comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
 [comment]: <> (</p>)
 
 
