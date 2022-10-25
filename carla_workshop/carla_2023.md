@@ -31,13 +31,15 @@ Special session: (23 August)
 
 &nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill
 
+&nbsp; &nbsp; &nbsp; [**John Perry**](https://tba), Philosophy, Stanford [tentative]
+
 Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Brain and Cognitive Sciences, MIT
 
 &nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://tba), Psychology, UQAM
 
-&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Psychology, University of Cambridge
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Psychology, University of Cambridge [tentative]
 
 &nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Linguistics, Concordia
 
