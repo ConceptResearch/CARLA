@@ -1,6 +1,6 @@
-<p float="center">
-  <img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />
-</p>
+[comment]: <> (<p float="center">)
+  [comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
+[comment]: <> (</p>)
 
 
 # CARLA 2022
