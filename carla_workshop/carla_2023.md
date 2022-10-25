@@ -27,21 +27,21 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 Special session: (23 August)
 
-&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://tba), Psychology and Language Sciences, UCL
+&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://tba), Department of Psychology and Language Sciences, UCL
 
-&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill University
+&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Department of Linguistics, McGill University
 
-&nbsp; &nbsp; &nbsp; [**John Perry**](https://tba), Philosophy, Stanford [tentative]
+&nbsp; &nbsp; &nbsp; [**John Perry**](https://tba), Department of Philosophy, Stanford University [tentative]
 
 Main session: (24-25 August)
 
-&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Brain and Cognitive Sciences, MIT
+&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Department of Brain and Cognitive Sciences, MIT
 
-&nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://tba), Psychology, UQAM
+&nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://tba), Department of Psychology, UQAM
 
-&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Psychology, University of Cambridge [tentative]
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Department of Psychology, University of Cambridge [tentative]
 
-&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Linguistics, Concordia University
+&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Department of Linguistics, Concordia University
 
 
 ## Call for Abstracts:
