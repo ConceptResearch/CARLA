@@ -1,5 +1,5 @@
 [comment]: <> (<p float="center">)
-  [comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
+[comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
 [comment]: <> (</p>)
 
 
@@ -25,13 +25,13 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 ## Invited Speakers: 
 
-Special session: (23. August)
+Special session: (23 August)
 
 &nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://tba), Psychology and Language Sciences, UCL
 
 &nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill
 
-Main session: (24-25. August)
+Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Brain and Cognitive Sciences, MIT
 
