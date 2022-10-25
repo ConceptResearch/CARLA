@@ -7,7 +7,7 @@
 
 [comment]: <> ( ### CARLA 2023 goes fully in-person.)
 
-The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2023. 
+The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2022. 
 
 The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cognition Lab</a> of the Department of Psychology, Concordia University, Montreal, will be hosting the 5th edition of the CARLA workshop, to be held on August 23-25 (Wed-Fri), 2023, in Montreal.
 
@@ -29,19 +29,19 @@ Special session: (23 August)
 
 &nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL
 
-&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Department of Linguistics, McGill University
+&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://webpages.mcgill.ca/staff/group3/bgillo/web/index.htm), Department of Linguistics, McGill University
 
-&nbsp; &nbsp; &nbsp; [**John Perry**](https://tba), Department of Philosophy, Stanford University [tentative]
+&nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University [tentative]
 
 Main session: (24-25 August)
 
-&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Department of Brain and Cognitive Sciences, MIT
+&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT
 
-&nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://tba), Department of Psychology, UQAM
+&nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://professeurs.uqam.ca/professeur/harnad.stevan/), Department of Psychology, UQAM
 
-&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Department of Psychology, University of Cambridge [tentative]
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge [tentative]
 
-&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Department of Linguistics, Concordia University
+&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Linguistics, Concordia University
 
 
 ## Call for Abstracts:
