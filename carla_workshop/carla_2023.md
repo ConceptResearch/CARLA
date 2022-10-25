@@ -27,7 +27,7 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 Special session: (23 August)
 
-&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL
+&nbsp; &nbsp; &nbsp; <a href="https://psycholinguistics.weebly.com">**Robyn Carston**</a> [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL
 
 &nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://webpages.mcgill.ca/staff/group3/bgillo/web/index.htm), Department of Linguistics, McGill University
 
