@@ -3,32 +3,43 @@
 [comment]: <> (</p>)
 
 
-# CARLA 2022
+# CARLA 2023
 
-[comment]: <> ( ### CARLA 2022 goes fully virtual: The workshop will be conducted in a fully virtual way without any attendance fees. )
+[comment]: <> ( ### CARLA 2023 goes fully in-person.)
 
-The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and 2022. Currently, we are organizing a fifth (potentially hybrid) workshop “Concepts in Action: Representation, Learning, and Application” (CARLA) in 2023. 
+The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2023. 
+
+The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cognition Lab</a> of the Department of Psychology, Concordia University, Montreal, will be hosting the 5th edition of the CARLA workshop, to be held on August 23-25 (Wed-Fri), 2023, in Montreal.
 
 ## Time and Venue:
 
-&nbsp; &nbsp; &nbsp; **Date:** tba 2023
-&nbsp; &nbsp; &nbsp; **Venue:** tba <br/>
-&nbsp; &nbsp; &nbsp; Concordia University, Montreal, Canada<br/>
-&nbsp; &nbsp; &nbsp; **Fees:** tba
+&nbsp; &nbsp; &nbsp; **Date:** August 23-25 (Wed-Fri), 2023 <br/>
+&nbsp; &nbsp; &nbsp; **Venue:** Concordia University, Montreal, Canada <br/>
 
 [comment]: <> (### Registration)
 
-[comment]: <> (Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0) for the registration form. )
+[comment]: <> (Please click [here] https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0 for the registration form. )
 
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
 ## Invited Speakers: 
 
-&nbsp; &nbsp; &nbsp; [**tba**](https://tba), tba
+Special session: (23. August)
 
-&nbsp; &nbsp; &nbsp; [**tba**](https://tba), tba
+&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://tba), Psychology and Language Sciences, UCL
 
+&nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://tba), Linguistics, McGill
+
+Main session: (24-25. August)
+
+&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](https://tba), Brain and Cognitive Sciences, MIT
+
+&nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://tba), Psychology, UQAM
+
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://tba), Psychology, University of Cambridge
+
+&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://tba), Linguistics, Concordia
 
 
 ## Call for Abstracts:
