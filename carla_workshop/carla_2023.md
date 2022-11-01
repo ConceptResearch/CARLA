@@ -36,6 +36,8 @@ Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT
 
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge [tentative]
+
 &nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://professeurs.uqam.ca/professeur/harnad.stevan/), Department of Psychology, UQAM
 
 &nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Linguistics, Concordia University
