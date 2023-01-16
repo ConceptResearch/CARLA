@@ -28,7 +28,7 @@ Special session: (23 August)
 
 &nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL
 
-&nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University [tentative]
+&nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University
 
 &nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://webpages.mcgill.ca/staff/group3/bgillo/web/index.htm), Department of Linguistics, McGill University
 
