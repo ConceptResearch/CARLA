@@ -26,7 +26,7 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 Special session: (23 August)
 
-&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL
+&nbsp; &nbsp; &nbsp; [**Robyn Carston**](https://www.ucl.ac.uk/pals/people/robyn-carston), Department of Psychology and Language Sciences, UCL [tentative]
 
 &nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University
 
@@ -34,9 +34,9 @@ Special session: (23 August)
 
 Main session: (24-25 August)
 
-&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT
+&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT [tentative]
 
-&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge [tentative]
+&nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge 
 
 &nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://professeurs.uqam.ca/professeur/harnad.stevan/), Department of Psychology, UQAM
 
