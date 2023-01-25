@@ -40,7 +40,7 @@ Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://professeurs.uqam.ca/professeur/harnad.stevan/), Department of Psychology, UQAM
 
-&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Linguistics, Concordia University
+&nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Classics, Modern Languages, and Linguistics, Concordia University
 
 ## Call for Abstracts:
 
@@ -64,3 +64,5 @@ The workshop is open for research on any aspect of concepts, but there are three
     - Concept Blending, Metaphors, Creativity
     
 This workshop aims to provide an excellent opportunity to present and discuss ongoing research on concepts, both from theoretical/formal and applied/experimental viewpoints. We invite concept researchers from all related fields to submit abstracts to the workshop.
+
+This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, and and the Department of Classics, Modern Languages, and Linguistics.
