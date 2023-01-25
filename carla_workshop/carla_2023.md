@@ -44,7 +44,7 @@ Main session: (24-25 August)
 
 ## Call for Abstracts:
 
-"Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, logic, computer science.
+"Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, and neuroscience.
 
 The workshop is open for research on any aspect of concepts, but there are three overarching topics that are of special interest with the following (not exhaustive) list of exemplary subtopics:
 
