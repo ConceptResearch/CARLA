@@ -1,7 +1,7 @@
 ## Call for Participation
 
 The [Institute of Cognitive Science](https://cogsci.uni-osnabrueck.de/) at Osnabrück University is happy to announce the summer school “Concepts
-in Action: Representation, Learning, and Application” (CARLA), funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en.html).
+in Action: Representation, Learning, and Applications” (CARLA), funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en.html).
 
 The summer school will bring together researchers from different disciplines with the goal of providing participants with knowledge about concept 
 research outside of their own fields and to initiate interdisciplinary exchanges and research. A subsequent and co-located [workshop](../carla_workshop/carla_2018.md) provides an 
