@@ -6,7 +6,7 @@
 # CARLA 2023
 [comment]: <> ( ### CARLA 2023 goes fully in-person.)
 
-The first workshop “Concepts in Action: Representation, Learning, and Application” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2022. 
+The first workshop “Concepts in Action: Representation, Learning, and Applications” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2022. 
 
 The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cognition Lab</a> of the Department of Psychology, Concordia University, Montreal, will be hosting the 5th edition of the CARLA workshop, to be held on August 23-25 (Wed-Fri), 2023, in Montreal.
 
@@ -44,7 +44,7 @@ Main session: (24-25 August)
 
 ## Call for Abstracts:
 
-"Concepts in Action: Representation, Learning, and Application" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, logic, computer science.
+"Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, logic, computer science.
 
 The workshop is open for research on any aspect of concepts, but there are three overarching topics that are of special interest with the following (not exhaustive) list of exemplary subtopics:
 
@@ -56,7 +56,7 @@ The workshop is open for research on any aspect of concepts, but there are three
     - Evolution of Concepts
     - Cross-Cultural and Social Aspects of Concepts
     - Developmental Psychology of Concepts
-- **Application:** _How are concepts used in cognitive tasks?_
+- **Applications:** _How are concepts used in cognitive tasks?_
     - Event Cognition
     - Artificial Agents
     - Concept Blending, Metaphors, Creativity
