@@ -56,7 +56,8 @@ The workshop is open for research on any aspect of concepts, but there are three
     - Evolution of Concepts
     - Cross-Cultural and Social Aspects of Concepts
     - Developmental Psychology of Concepts
-- **Applications:** _How are concepts used in cognitive tasks?_
+- **Applications:** _How are concepts used in cognitive tasks by humans and artificial systems?_
+    - Vision-Language Interface
     - Event Cognition
     - Artificial Agents
     - Concept Blending, Metaphors, Creativity
