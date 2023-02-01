@@ -42,6 +42,8 @@ Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Classics, Modern Languages, and Linguistics, Concordia University
 
+&nbsp; &nbsp; &nbsp; [**Aishwarya Agrawal**](https://www.iro.umontreal.ca/~agrawal/), Department of Computer Science and Operations Research, Université de Montréal
+
 ## Call for Abstracts:
 
 "Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, and neuroscience.
