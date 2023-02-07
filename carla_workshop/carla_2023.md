@@ -24,7 +24,7 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 ## Invited Speakers: 
 
-Special session: (23 August)
+Special session on "Implicit Arguments": (23 August)
 
 &nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University
 
