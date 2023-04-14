@@ -19,7 +19,6 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 [comment]: <> (Please click [here] https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0 for the registration form. )
 
-
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
 ## Invited Speakers: 
