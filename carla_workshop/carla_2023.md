@@ -31,7 +31,7 @@ Special session on "Context: Linguistic Structure, Knowledge, and Beliefs": (23 
 
 Main session: (24-25 August)
 
-[comment]: <> (&nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT [tentative] )
+[comment]: <> ([**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT [tentative])
 
 &nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge 
 
