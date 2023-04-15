@@ -31,7 +31,7 @@ Special session on "Context: Linguistic Structure, Knowledge, and Beliefs": (23 
 
 Main session: (24-25 August)
 
-[comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
+[comment]: <> ([**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT [tentative])
 
 &nbsp; &nbsp; &nbsp; [**Evelina Fedorenko**](http://evlab.mit.edu/family/), Department of Brain and Cognitive Sciences, MIT [tentative]
 
