@@ -71,6 +71,9 @@ Papers should be submitted in PDF format. Please send two attachments: (1) one w
 
 The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 
+## Special session: "Context: Linguistic Structure, Knowledge, and Beliefs": ##
+In addition to the main session, CARLA 2023 will feature a special session, "Context: Linguistic Structure, Knowledge, and Beliefs” on the mapping between linguistic representations and propositions. This special session will be linked to a special issue of a journal (to be announced in the near future). The submission procedure for this session is the same as for the main conference (via EasyChair), but potential participants should select “special session” in the EasyChair submission. 
+
 ### Local Organizers: ###
 - [Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html) [Psychology, Concordia University]
 - [Christopher Genovesi](https://psycholinguistics.weebly.com/people.html) [Psychology, Concordia University]
