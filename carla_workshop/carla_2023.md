@@ -33,13 +33,13 @@ Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge 
 
+&nbsp; &nbsp; &nbsp; [**Aishwarya Agrawal**](https://www.iro.umontreal.ca/~agrawal/), Department of Computer Science and Operations Research, Université de Montréal
+
 &nbsp; &nbsp; &nbsp; [**Brendan Johns**](https://btjohns.com/people), Department of Psychology, McGill University
 
 &nbsp; &nbsp; &nbsp; [**Stevan Harnad**](https://professeurs.uqam.ca/professeur/harnad.stevan/), Department of Psychology, UQAM
 
 &nbsp; &nbsp; &nbsp; [**Alan Bale**](https://alanbale.concordialinguistics.org/), Department of Classics, Modern Languages, and Linguistics, Concordia University
-
-&nbsp; &nbsp; &nbsp; [**Aishwarya Agrawal**](https://www.iro.umontreal.ca/~agrawal/), Department of Computer Science and Operations Research, Université de Montréal [tentative]
 
 ## Call for Abstracts:
 
