@@ -64,4 +64,10 @@ The workshop is open for research on any aspect of concepts and semantics, with 
     
 This workshop aims to provide an excellent opportunity to present and discuss ongoing research on concepts, both from theoretical/formal and applied/experimental viewpoints. We invite concept researchers from all related fields to submit abstracts to the workshop.
 
+## Local Organizers:
+- Roberto G. de Almeida [Psychology, Concordia University]
+- Christopher Genovesi [Psychology, Concordia University]
+- Tobias Ungerer [Psychology, Concordia University]
+- Caitlyn Antal [Psychology, McGill University]
+
 This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, and and the Department of Classics, Modern Languages, and Linguistics.
