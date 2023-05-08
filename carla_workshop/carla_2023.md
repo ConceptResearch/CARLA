@@ -73,7 +73,7 @@ The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 
 ### Local Organizers: ###
 - [Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html) [Psychology, Concordia University]
-- Christopher Genovesi [Psychology, Concordia University]
+- [Christopher Genovesi](https://psycholinguistics.weebly.com/people.html) [Psychology, Concordia University]
 - Tobias Ungerer [Psychology, Concordia University]
 - Caitlyn Antal [Psychology, McGill University]
 
