@@ -43,24 +43,24 @@ Main session: (24-25 August)
 
 ## Call for Abstracts:
 
-"Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop aimed at fostering interdisciplinary exchange about research on concepts. It invites contributions from all fields related to cognitive science, including (but not limited to) linguistics, artificial intelligence, psychology, philosophy, and neuroscience.
+"Concepts in Action: Representation, Learning, and Applications" (CARLA) is an international workshop that fosters interdisciplinary exchanges about research on concepts. We invite contributions from all fields within cognitive science, including linguistics, psychology, philosophy, neuroscience, and computer science.
 
-The workshop is open for research on any aspect of concepts, but there are three overarching topics that are of special interest with the following (not exhaustive) list of exemplary subtopics:
+The workshop is open for research on any aspect of concepts and semantics, with three overarching topics, addressing the following (non-exhaustive) list of questions:
 
-- **Representation:** _How can we formally describe and model concepts?_
-    - Conceptual Spaces, Conceptual Domains, Frames
-    - Lexical Semantics and Pragmatics
-    - Grounded Cognition, Embodiment, 4E Cognition
-- **Learning:** _Where do concepts come from and how are they acquired?_
-    - Evolution of Concepts
-    - Cross-Cultural and Social Aspects of Concepts
-    - Developmental Psychology of Concepts
+- **Representation:** 
+    - What is the nature of semantic/conceptual representation?
+    - How are concepts processed in the brain?
+    - How do concepts compose to form complex thoughts?
+    - How can we formally describe and model concepts?
+- **Learning:**
+    - What is the ontology of concepts and how do they develop?
+    - How do we learn to categorize objects and events?
+    - What kind of cognitive architecture supports concept acquisition and development?
 - **Applications:** _How are concepts used in cognitive tasks by humans and artificial systems?_
-    - Vision-Language Interface
-    - Deep Learning
-    - Event Cognition
-    - Artificial Agents
-    - Concept Blending, Metaphors, Creativity
+    - How are concepts used in cognitive tasks and in applied cognitive systems, such as:
+        - Applied machine learning in computer vision
+        - Decision making
+        - Category learning
     
 This workshop aims to provide an excellent opportunity to present and discuss ongoing research on concepts, both from theoretical/formal and applied/experimental viewpoints. We invite concept researchers from all related fields to submit abstracts to the workshop.
 
