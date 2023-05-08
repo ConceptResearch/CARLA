@@ -56,8 +56,8 @@ The workshop is open for research on any aspect of concepts and semantics, with 
     - What is the ontology of concepts and how do they develop?
     - How do we learn to categorize objects and events?
     - What kind of cognitive architecture supports concept acquisition and development?
-- **Applications:** _How are concepts used in cognitive tasks by humans and artificial systems?_
-    - How are concepts used in cognitive tasks and in applied cognitive systems, such as:
+- **Applications:**
+    - How concepts are used in cognitive tasks and in applied cognitive systems, such as:
         - Applied machine learning in computer vision
         - Decision making
         - Category learning
