@@ -64,7 +64,7 @@ The workshop is open for research on any aspect of concepts and semantics, with 
     
 This workshop aims to provide an excellent opportunity to present and discuss ongoing research on concepts, both from theoretical/formal and applied/experimental viewpoints. We invite concept researchers from all related fields to submit abstracts to the workshop.
 
-## Local Organizers:
+- **Local Organizers:** :
 - Roberto G. de Almeida [Psychology, Concordia University]
 - Christopher Genovesi [Psychology, Concordia University]
 - Tobias Ungerer [Psychology, Concordia University]
