@@ -70,4 +70,8 @@ This workshop aims to provide an excellent opportunity to present and discuss on
 - Tobias Ungerer [Psychology, Concordia University]
 - Caitlyn Antal [Psychology, McGill University]
 
+For inquiries: 
+- Email: cognition.lab@concordia.ca
+- Subject line: CARLA2023
+
 This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, and and the Department of Classics, Modern Languages, and Linguistics.
