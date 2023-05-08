@@ -71,7 +71,7 @@ Papers should be submitted in PDF format. Please send two attachments: (1) one w
 
 The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 
-**Local Organizers:**
+### Local Organizers: ###
 - Roberto G. de Almeida [Psychology, Concordia University]
 - Christopher Genovesi [Psychology, Concordia University]
 - Tobias Ungerer [Psychology, Concordia University]
