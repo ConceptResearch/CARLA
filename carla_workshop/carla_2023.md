@@ -64,6 +64,13 @@ The workshop is open for research on any aspect of concepts and semantics, with 
     
 This workshop aims to provide an excellent opportunity to present and discuss ongoing research on concepts, both from theoretical/formal and applied/experimental viewpoints. We invite concept researchers from all related fields to submit abstracts to the workshop.
 
+**Submission and Publication:** 
+We invite the submission of abstracts via EasyChair: https://easychair.org/my/conference?conf=carla2022
+
+Papers should be submitted in PDF format. Please send two attachments: (1) one with title, author(s), affiliation, text, and references; and (2) another with the title and text only (there should be no authorship information). Review of abstracts will be based on the anonymized submissions. Abstracts are limited to 1000 words (up to two pages). Graphs or diagrams can be included in the two-page limit. Authors of accepted papers will have the opportunity to revise the abstract before publication in the abstract booklet.
+
+The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
+
 **Local Organizers:**
 - Roberto G. de Almeida [Psychology, Concordia University]
 - Christopher Genovesi [Psychology, Concordia University]
