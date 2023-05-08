@@ -77,7 +77,7 @@ The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 - Tobias Ungerer [Psychology, Concordia University]
 - Caitlyn Antal [Psychology, McGill University]
 
-For inquiries: 
+**For inquiries:** 
 - Email: cognition.lab@concordia.ca
 - Subject line: CARLA2023
 
