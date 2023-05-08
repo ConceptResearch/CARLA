@@ -75,7 +75,7 @@ The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 - [Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html) [Psychology, Concordia University]
 - [Christopher Genovesi](https://psycholinguistics.weebly.com/people.html) [Psychology, Concordia University]
 - [Tobias Ungerer](https://tungerer.github.io/) [Psychology, Concordia University]
-- Caitlyn Antal [Psychology, McGill University]
+- [Caitlyn Antal](https://psycholinguistics.weebly.com/caitlyn-antal.html) [Psychology, McGill University]
 
 **For inquiries:** 
 - Email: cognition.lab@concordia.ca
