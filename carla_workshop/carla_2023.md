@@ -86,4 +86,4 @@ The submission procedure for this session is the same as for the main conference
 - Email: <a href="mailto:cognition.lab@concordia.ca">cognition.lab@concordia.ca</a>
 - Subject line: CARLA2023
 
-This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, and the Department of Classics, Modern Languages, and Linguistics.
+This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, the Department of Classics, Modern Languages, and Linguistics, and the School of Graduate Studies.
