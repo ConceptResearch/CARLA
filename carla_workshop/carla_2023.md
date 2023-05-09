@@ -83,7 +83,7 @@ The submission procedure for this session is the same as for the main conference
 - [Caitlyn Antal](https://psycholinguistics.weebly.com/caitlyn-antal.html) [Psychology, McGill University]
 
 **For inquiries:** 
-- Email: cognition.lab@concordia.ca
+- Email: [cognition.lab@concordia.ca](cognition.lab@concordia.ca)
 - Subject line: CARLA2023
 
 This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, and and the Department of Classics, Modern Languages, and Linguistics.
