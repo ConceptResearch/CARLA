@@ -8,7 +8,7 @@
 
 The first workshop “Concepts in Action: Representation, Learning, and Applications” took place at the Institute of Cognitive Science at Osnabrück University in 2018, followed by two virtual events as part of the Bolzano Summer of Knowledge (BOSK) in 2020, 2021, and a hybrid event at the Humboldt University of Berlin in 2022. 
 
-The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cognition Lab</a> of the Department of Psychology, Concordia University, Montreal, will be hosting the 5th edition of the CARLA workshop, to be held on August 23-25 (Wed-Fri), 2023, in Montreal.
+The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cognition Lab</a> of the Department of Psychology, Concordia University, Montreal, will be hosting the 5th edition of the CARLA workshop.
 
 ## Time and Venue:
 
