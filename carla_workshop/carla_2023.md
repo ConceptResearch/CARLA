@@ -69,6 +69,8 @@ We invite the submission of abstracts via EasyChair: [https://easychair.org/cfp/
 
 Papers should be submitted in PDF format. Please send two attachments: (1) one with title, author(s), affiliation, text, and references; and (2) another with the title and text only (there should be no authorship information). Review of abstracts will be based on the anonymized submissions. Abstracts are limited to 1000 words (up to two pages). Graphs or diagrams can be included in the two-page limit. Authors of accepted papers will have the opportunity to revise the abstract before publication in the abstract booklet.
 
+Talks are expected to be up to 30 minutes, including question period. There will also be one poster session.
+
 The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
 
 ## Special session: "Context: Linguistic Structure, Knowledge, and Beliefs": ##
@@ -86,4 +88,4 @@ The submission procedure for this session is the same as for the main conference
 - Email: <a href="mailto:cognition.lab@concordia.ca">cognition.lab@concordia.ca</a>
 - Subject line: CARLA2023
 
-This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, the Department of Classics, Modern Languages, and Linguistics, and the School of Graduate Studies.
+This workshop is sponsored by the following Concordia University Departments and Institutes: Department of Psychology, Centre for Cognitive Science and Linguistics, Applied AI Institute, Department of Philosophy, the Department of Classics, Modern Languages, and Linguistics, the School of Graduate Studies, and The Psycholinguistics and Cognition Lab.
