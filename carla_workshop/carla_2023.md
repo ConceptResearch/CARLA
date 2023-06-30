@@ -71,7 +71,7 @@ Papers should be submitted in PDF format. Please send two attachments: (1) one w
 
 Talks are expected to be up to 30 minutes, including question period. There will also be one poster session.
 
-The deadline for submissions is **July 1st, 2023 (at 11:59 pm, any time zone).**
+The deadline for submissions is **July 10th, 2023 (at 11:59 pm, any time zone).**
 
 ## Special session: "Context: Linguistic Structure, Knowledge, and Beliefs": ##
 In addition to the main session, CARLA 2023 will feature a special session on "Context: Linguistic Structure, Knowledge, and Beliefs”. Psychologists, linguists, and philosophers recognize that sentence comprehension depends on numerous factors, including grammatical knowledge, world knowledge, and especially beliefs about the context of the sentence’s utterance. The special session aims to cover a broad range of themes dealing with linguistic context sensitivity, including implicit arguments, unarticulated constituents, enrichment, implicature, impliciture, explicature, hidden indexicals, semantic interpolation, presupposition, and anaphora. We invite contributions from all areas of cognitive (neuro)science and philosophy of language.
