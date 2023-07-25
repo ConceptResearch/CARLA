@@ -2,7 +2,7 @@
 
 We have compiled a list of hotels near the venue to help you prepare for your trip to Montreal.\
 An older list of hotels with agreements with Concordia can be found [here](https://www.concordia.ca/events/conferences/transfiction/about/accommodations.html).\
-If you'd like to take advantage of Concordia University rates, please make sure to mention that you are attending the CARLA workshop at the following hotels:
+If you'd like to take advantage of Concordia University rates, please make sure to mention that you are attending the CARLA workshop, at the following hotels:
 
 ***
 
