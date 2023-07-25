@@ -13,7 +13,7 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 ## Time and Venue:
 
 &nbsp; &nbsp; &nbsp; **Date:** August 23-25 (Wed-Fri), 2023 <br/>
-&nbsp; &nbsp; &nbsp; **Venue:** Concordia University, Montreal, Canada <br/>
+&nbsp; &nbsp; &nbsp; **Venue:** [Concordia University Conference Centre](https://www.google.com/maps/place/John+Molson+School+of+Business/@45.495495,-73.5813604,17z/data=!3m1!4b1!4m6!3m5!1s0x4cc91a6bad497fd7:0x4ea79f8c53ebda6c!8m2!3d45.495495!4d-73.5791717!16zL20vMGJzbDI5?entry=ttu), Sir George William campus, downtown Montreal (9th floor of the MB building). <br/>
 
 ### Registration:
 
