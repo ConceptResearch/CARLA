@@ -1,8 +1,8 @@
 ## Practical Information
 
-### Internet
+### Internet Access
 
-* eduroam
+* Wireless Internet access will be available via the eduroam network. Login with the credentials from your home university.
 
 ***
 
