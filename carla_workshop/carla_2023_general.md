@@ -2,48 +2,48 @@
 
 ### Phone numbers
 
-Police: 110\
-Ambulance: 112\
-Taxi: +49 30 44 33 22; +49 30 210 10 20\
-University security: +49 30 2093 2416
+Police and Ambulance: 911\
+Non-urgent health issue: 811\
+University security: +1 514-848-3717
+
 
 ***
 
 ### Health
 
-*Emergency rooms*\
-St. Hedwig Hospital, Große Hamburger Str. 5, 10115 Berlin\
-Charité, Philippstr. 10, 10117 Berlin
+**Emergency rooms**\
+McGill University Health Center\
+1001 Decarie Blvd, Montreal, Quebec H4A 3J1\
++1 514 843-1610\
+Emergency: 911
 
-*Pharmacies*\
-Aschenbachs Apotheke, Georgenstr. 25: \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 7am-8pm, Sat 10am-5pm\
-Dorotheenstadt Apotheke, Friedrichstr. 151 Ecke Dorotheenstr.: \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 8am-7pm, Sat 9am-2pm 
+Montréal General Hospital\
+1650 Cedar Ave, Montreal, Quebec H3G 1A4\
++1 514 934-1934\
+Emergency: 911
+
+**Pharmacies**\
+Pharmaprix\
+1500 Saint-Catherine St W, Montreal, Quebec H3G 1S8\
++1 514 933-4744
+
+Jean Coutu Pharmacy\
+1675 Saint-Catherine St W, Montreal, Quebec H3H 1L9\
++1 514 933-4221
 
 ***
 
 ### Copyshops
 
-Sprintout, Georgenstr. 190\
-&nbsp;&nbsp;&nbsp;&nbsp;+4930235538850\
-&nbsp;&nbsp;&nbsp;&nbsp;http://www.sprintout.de/ \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri 10am-6pm\
-Copy Clara, Tucholskystr. 11 \
-&nbsp;&nbsp;&nbsp;&nbsp;+49302828557\
-&nbsp;&nbsp;&nbsp;&nbsp;https://www.allesclara.de/ \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri  9am-8pm 
+**Copies Concordia**\
+2080 Crescent St, Montreal, Quebec H3G 2B8\
+Open: Mon-Fri 9am-6pm\
+http://www.copiesconcordia.com
 
 ***
 
 ### Internet
 
 eduroam
-
-***
-
-### Workspace during the conference 
-
-Tba
 
 ***
