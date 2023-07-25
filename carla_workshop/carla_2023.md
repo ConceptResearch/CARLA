@@ -15,11 +15,12 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 &nbsp; &nbsp; &nbsp; **Date:** August 23-25 (Wed-Fri), 2023 <br/>
 &nbsp; &nbsp; &nbsp; **Venue:** Concordia University, Montreal, Canada <br/>
 
-[comment]: <> (### Registration)
+### Registration:
 
-[comment]: <> (Please click [here] https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAImtr09J6yqqz0IqN2C9_GzMFiUzyKvg/viewform?vc=0&c=0&w=1&flr=0 for the registration form. )
+Please click [here] (https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration form.
 
-[comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
+[comment]:![image](https://github.com/ConceptResearch/CARLA/assets/91133522/52c40e95-d5c7-4c27-9855-dd12895afbc0)
+ <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
 
 ## Invited Speakers: 
 
