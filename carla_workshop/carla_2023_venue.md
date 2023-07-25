@@ -11,7 +11,7 @@ We will be on the 9th floor of the MB building (room 9.225).
     +	[https://yul.taxi/en/ ](https://yul.taxi/en/)
 *	**Bus (747)**
     +	Express shuttle bus between the Trudeau International airport and downtown Montreal (operates 24/7)
-    +	Route and fares can be found [here](https://www.stm.info/en/info/networks/bus/shuttle/747-yul-montreal-trudeau-airport-downtown-shuttle).
+    +	Route and fares can be found [here](https://www.stm.info/en/info/networks/bus/shuttle/747-yul-montreal-trudeau-airport-downtown-shuttle)
 
 ### 2. Transportation around Montreal
 *	**Metro/Bus**
