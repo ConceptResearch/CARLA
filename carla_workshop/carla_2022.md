@@ -22,10 +22,10 @@ Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSezQOc6WDdgfKe6HSAI
 
 ### Practical information:
 
-&nbsp; &nbsp; &nbsp; [General](carla_2022_general)<br/>
-&nbsp; &nbsp; &nbsp; [How to get here](carla_2022_venue) & [Where to find travel regulations (COVID-19)](carla_2022_travel_regulation)<br/>
-&nbsp; &nbsp; &nbsp; [Where to stay](carla_2022_accommodation)<br/>
-&nbsp; &nbsp; &nbsp; [Where to eat](carla_2022_food)<br/>
+&nbsp; &nbsp; &nbsp; [General](carla_2022_general.md)<br/>
+&nbsp; &nbsp; &nbsp; [How to get here](carla_2022_venue.md) & [Where to find travel regulations (COVID-19)](carla_2022_travel_regulation.md)<br/>
+&nbsp; &nbsp; &nbsp; [Where to stay](carla_2022_accommodation.md)<br/>
+&nbsp; &nbsp; &nbsp; [Where to eat](carla_2022_food.md)<br/>
 
 
 [comment]: <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
