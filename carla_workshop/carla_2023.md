@@ -17,7 +17,7 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 ### Registration:
 
-Please click [here] (https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration form.
+Please click [here](https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration form.
 
 ## Invited Speakers: 
 
