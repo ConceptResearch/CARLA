@@ -32,7 +32,7 @@ Sprintout, Georgenstr. 190\
 Copy Clara, Tucholskystr. 11 \
 &nbsp;&nbsp;&nbsp;&nbsp;+49302828557\
 &nbsp;&nbsp;&nbsp;&nbsp;https://www.allesclara.de/ \
-&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri  9am-8pm 
+&nbsp;&nbsp;&nbsp;&nbsp;Open: Mon-Fri  9am-8pm  
 
 ***
 
