@@ -6,7 +6,6 @@ Police and Ambulance: 911\
 Non-urgent health issue: 811\
 University security: +1 514-848-3717
 
-
 ***
 
 ### Health
