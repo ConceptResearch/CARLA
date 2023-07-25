@@ -16,7 +16,7 @@
 
 ### Health
 
-**Emergency rooms**
+***Emergency rooms***
 
 McGill University Health Center
 * 1001 Decarie Blvd, Montreal, H4A 3J1
@@ -28,7 +28,7 @@ Montréal General Hospital
 * +1 514-934-1934
 * Emergency: 911
 
-**Pharmacies**
+***Pharmacies***
 
 Pharmaprix
 * 1500 Saint-Catherine St W, Montreal, H3G 1S8
