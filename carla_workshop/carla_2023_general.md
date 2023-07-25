@@ -48,6 +48,7 @@ Jean Coutu Pharmacy
 **Copies Concordia**
 * 2080 Crescent St, Montreal, H3G 2B8
 * Open: Mon-Fri 9am-6pm
+* +1 (514) 931-3063
 * http://www.copiesconcordia.com
 
 ***
