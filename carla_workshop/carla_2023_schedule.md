@@ -2,8 +2,6 @@
 [comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
 [comment]: <> (</p>)
 
+## Preliminary Schedule 
 
-# CARLA 2023 Schedule
-[comment]: <> ( ### CARLA 2023 goes fully in-person.)
-
-The preliminary schedule and abstracts will be uploaded shortly.
+The preliminary schedule as well as abstracts will be uploaded shortly.
