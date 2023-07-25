@@ -19,9 +19,6 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 Please click [here] (https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration form.
 
-[comment]:![image](https://github.com/ConceptResearch/CARLA/assets/91133522/52c40e95-d5c7-4c27-9855-dd12895afbc0)
- <> (**IMPORTANT:** CARLA 2021 will be conducted as a **fully virtual** event without any attendance fees. More information about how to attend can be found below.)
-
 ## Invited Speakers: 
 
 Special session on "Context: Linguistic Structure, Knowledge, and Beliefs": (23 August)
