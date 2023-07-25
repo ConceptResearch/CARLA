@@ -3,6 +3,9 @@
 ### Internet Access
 
 * Wireless Internet access will be available via the eduroam network. Login with the credentials from your home university.
+* Example:
+  + Username: johnsmith@concordia(dot)ca
+  + Passowrd: xxxxxxxxxx
 
 ***
 
