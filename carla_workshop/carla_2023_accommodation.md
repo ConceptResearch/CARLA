@@ -9,7 +9,7 @@ We recommend the following hotels.
 **Sens Hotel**
 
 *   [Website](https://www.senshotel.com/?gad=1&gclid=Cj0KCQjw5f2lBhCkARIsAHeTvlg1_E7ks4Iv364fDQ2lPOMvnbnmpjNyraj6JKo55I8BwBsL8W40pp4aAqOYEALw_wcB&gclsrc=aw.ds)
-*   1808 Sherbrooke St W, Montreal, Quebec H3H 1E5\
+*   1808 Sherbrooke St W, Montreal, H3H 1E5
 *   +1 (514) 933-8111
 *   4 minute walking distance from the venue
 
@@ -18,7 +18,7 @@ We recommend the following hotels.
 **Chateau Versailles Hotel**
 
 *   [Website](https://www.chateauversaillesmontreal.com/)
-*   1659 Sherbrooke St W, Montreal, Quebec H3H 1E3\
+*   1659 Sherbrooke St W, Montreal, H3H 1E3
 *   +1 (514) 933-3611
 *   4 minute walking distance from the venue
 
