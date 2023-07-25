@@ -5,7 +5,7 @@ We will be on the 9th floor of the MB building (room 9.225).
 
 ### 1. Getting to the Workshop from Montreal's Trudeau International Airport
 
-*	**Car/Taxi**
+*	**Car/Taxi/UBER**
     +	Travelling time: approximately 20 minutes
     +	Taxi fare: approximately $41
     +	https://yul.taxi/en/ 
@@ -18,3 +18,8 @@ We will be on the 9th floor of the MB building (room 9.225).
     +    The STM is Montreal’s public transportation system
     +    The metro station closest to the university is **Guy-Concordia**
     +    Information about metro fares and route can be found [here](https://www.stm.info/en/info/networks/metro)
+
+### 3. Downtown Parking
+*	**On-Campus Indoor Parking Garage**
+    +    Location: 1453 Mackay Street
+    +    Information about rates and operating hours can be found [here](https://www.concordia.ca/maps/parking/sgw-campus.html)
