@@ -15,6 +15,6 @@ We will be on the 9th floor of the MB building (room 9.225).
 
 ### 2. Transportation around Montreal
 *	**Metro/Bus**
-*	The STM is Montreal’s public transportation system
-*	The metro station closest to the university is **Guy-Concordia**
-*	Information about metro fares and route can be found [here](https://www.stm.info/en/info/networks/metro)
+    +    The STM is Montreal’s public transportation system
+    +    The metro station closest to the university is **Guy-Concordia**
+    +    Information about metro fares and route can be found [here](https://www.stm.info/en/info/networks/metro)
