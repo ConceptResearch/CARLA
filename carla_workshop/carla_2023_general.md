@@ -1,5 +1,11 @@
 ## Practical Information
 
+### Internet
+
+eduroam
+
+***
+
 ### Phone numbers
 
 Police and Ambulance: 911\
@@ -38,11 +44,5 @@ Jean Coutu Pharmacy\
 2080 Crescent St, Montreal, Quebec H3G 2B8\
 Open: Mon-Fri 9am-6pm\
 http://www.copiesconcordia.com
-
-***
-
-### Internet
-
-eduroam
 
 ***
