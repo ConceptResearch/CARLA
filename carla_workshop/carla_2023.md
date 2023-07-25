@@ -19,6 +19,10 @@ The <a href="https://psycholinguistics.weebly.com">Psycholinguistics and Cogniti
 
 Please click [here](https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration form.
 
+### Schedule:
+
+Please click [here](carla_2023_schedule.md) for the workshop schedule.
+
 ### Practical information:
 
 &nbsp; &nbsp; &nbsp; [General](carla_2023_general.md)<br/>
