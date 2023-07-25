@@ -21,9 +21,9 @@ Please click [here](https://forms.gle/SQc6QKJ7mA3V1aZ17) for the registration fo
 
 ### Practical information:
 
-&nbsp; &nbsp; &nbsp; [General](carla_2023_general)<br/>
+&nbsp; &nbsp; &nbsp; [General](carla_2023_general.md)<br/>
 &nbsp; &nbsp; &nbsp; [How to get here](carla_2022_venue)<br/>
-&nbsp; &nbsp; &nbsp; [Where to stay](carla_2023_accommodation)<br/>
+&nbsp; &nbsp; &nbsp; [Where to stay](carla_2023_accommodation.md)<br/>
 &nbsp; &nbsp; &nbsp; [Where to eat](carla_2022_food)<br/>
 
 ## Invited Speakers: 
