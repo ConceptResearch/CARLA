@@ -11,6 +11,7 @@ If you'd like to take advantage of Concordia University rates, please make sure 
 *   1808 Sherbrooke St W, Montreal, H3H 1E5
 *   +1 (514) 933-8111
 *   4 minute walking distance from the venue
+*   CARLA2023 group code: C23H22S (valid until August 7th, 2023)
 
 ***
 
