@@ -1,4 +1,4 @@
-## Food and Beverage Options Around the Conference Venue
+## Food and Beverage Options Around the Workshop Venue
 
 Liv Salades (Vegetarian)
 *   1444 B Saint-Catherine St W, Montreal, Quebec H3G 1R3
