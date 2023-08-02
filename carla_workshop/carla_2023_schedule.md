@@ -4,4 +4,4 @@
 
 ## Preliminary Schedule 
 
-The preliminary schedule as well as abstracts will be uploaded shortly.
+The preliminary program will be posted by Friday August 4th.
