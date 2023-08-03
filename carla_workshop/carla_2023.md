@@ -32,13 +32,9 @@ Please click [here](carla_2023_schedule.md) for the workshop schedule.
 
 ## Invited Speakers: 
 
-Special session on "Context: Linguistic Structure, Knowledge, and Beliefs": (23 August)
-
 &nbsp; &nbsp; &nbsp; [**John Perry**](http://www.john.jperry.net/), Department of Philosophy, Stanford University
 
 &nbsp; &nbsp; &nbsp; [**Brendan Gillon**](https://webpages.mcgill.ca/staff/group3/bgillo/web/index.htm), Department of Linguistics, McGill University
-
-Main session: (24-25 August)
 
 &nbsp; &nbsp; &nbsp; [**Alex Clarke**](https://sites.google.com/site/alexclarkebrains/projects?authuser=0), Department of Psychology, University of Cambridge 
 
@@ -81,11 +77,6 @@ Papers should be submitted in PDF format. Please send two attachments: (1) one w
 Talks are expected to be up to 30 minutes, including question period. There will also be one poster session.
 
 The deadline for submissions is **July 10th, 2023 (at 11:59 pm, any time zone).**
-
-## Special session: "Context: Linguistic Structure, Knowledge, and Beliefs": ##
-In addition to the main session, CARLA 2023 will feature a special session on "Context: Linguistic Structure, Knowledge, and Beliefs”. Psychologists, linguists, and philosophers recognize that sentence comprehension depends on numerous factors, including grammatical knowledge, world knowledge, and especially beliefs about the context of the sentence’s utterance. The special session aims to cover a broad range of themes dealing with linguistic context sensitivity, including implicit arguments, unarticulated constituents, enrichment, implicature, impliciture, explicature, hidden indexicals, semantic interpolation, presupposition, and anaphora. We invite contributions from all areas of cognitive (neuro)science and philosophy of language.
-
-The submission procedure for this session is the same as for the main conference (via EasyChair), but potential participants should select “special session” in the EasyChair submission. 
 
 ### Local Organizers: ###
 - [Roberto G. de Almeida](https://psycholinguistics.weebly.com/roberto-g-de-almeida.html) [Psychology, Concordia University]
