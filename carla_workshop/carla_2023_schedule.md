@@ -18,11 +18,11 @@
     +	Poster 02: Abouzar Moradian (Texas A&M University):
         + *Reframing concepts: A perception and prediction-based account* [[Abstract]](abstracts_2023/Moradian-CARLA-2023.pdf)
     +	Poster 03: Paul Stan (Concordia University):
-        +	*An investigation of decompositional theories of verb meaning: Evidence from memory-for-propositions paradigms* [Abstract]
+        +	*Title to come* [Abstract]
     +	Poster 04: Cedric Le-Bouar (Concordia University):
-        +	*Pre-pexical morphological parsing of ambiguous roots: Evidence from a lexical decision task* [Abstract]
+        +	*Title to come* [Abstract]
     +	Poster 05: Alessandro La Serra (Concordia University):
-        +	*From perception to meaning: Investigating the role of color and texture in the access of object concepts* [Abstract]
+        +	*Title to come* [Abstract]
     +	Poster 06: Elena Nikolaenko (Bryansk State University):
         +	*Conceptualizing excessive action through the water and sand metaphors as cultural representation of thought (the English, Russian and Czech languages)* [[Abstract]](abstracts_2023/Nikolaenko-CARLA-2023.pdf)
     +	Poster 07: To be confirmed
@@ -40,7 +40,7 @@
 
 **Talk Session 1: Semantics**
 +	11:00 – 11:30: Kyan Salehi (Concordia University)
-      +	*Is the meaning of “fan” accessed when recognizing “fanfare”? Evidence from a word-picture relatedness task* [Abstract]
+      +	*Title to come* [Abstract]
 +	11:30 – 12:00: Larissa Jordan (University of Cincinnati)
       +	*The nature of automatic semantic retrieval in individuals with mild cognitive impairment* [[Abstract]](abstracts_2023/Jordan-CARLA-2023.pdf)
 +	12:00 – 12:30: Caitlyn Antal (McGill University)
