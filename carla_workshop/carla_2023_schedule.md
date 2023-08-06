@@ -79,7 +79,7 @@
 +	11:30 – 12:00: Christopher Genovesi (Concordia University)
       +	*Remarks on the literal-metaphorical distinction and lexicalized concepts* [[Abstract]](abstracts_2023/Genovesi-CARLA-2023.pdf)
 +	12:00 – 12:30: Jie Chen (Rice University)
-      +	*Cross-category notions, representations and aristotle’s essentialism* [[Abstract]](abstracts_2023/Rice-CARLA-2023.pdf)
+      +	*Cross-category notions, representations and aristotle’s essentialism* [[Abstract]](abstracts_2023/Chen-CARLA-2023.pdf)
 
 **12:30 – 14:00: Lunch Break**
 
