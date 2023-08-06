@@ -89,7 +89,7 @@
 
 **Talk Session 4: Social Semantics and Concepts in Action**
 +	15:30 – 16:00: Stefan Hartmann (University of Düsseldorf)
-      +	*Will Carla apply for this job, or just Carl? – What user interactions with job listings reveal about the effects of gender-sensitive language on male and female representations* [[Abstract]](abstracts_2023/Hartmann-CARLA-2023.pdf)
+      +	*Will Carla apply for this job, or just Carl? – What user interactions with job listings reveal about the effects of gender-sensitive language on male and female representations* [[Abstract]](abstracts_2023/Hetjens-Hartmann-CARLA-2023.pdf)
 +	16:00 – 16:30: Stephanie Rotter (Humboldt-Universität zu Berlin)
       +	*Social meaning of negative concord in American English* [[Abstract]](abstracts_2023/Rotter-CARLA-2023.pdf)
 +	16:30 – 17:00: Beth Barker (Northwestern University)
