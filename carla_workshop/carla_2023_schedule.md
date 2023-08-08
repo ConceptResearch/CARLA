@@ -25,10 +25,6 @@
         +	*Title to come* [Abstract]
     +	Poster 06: Elena Nikolaenko (Bryansk State University):
         +	*Conceptualizing excessive action through the water and sand metaphors as cultural representation of thought (the English, Russian and Czech languages)* [[Abstract]](abstracts_2023/Nikolaenko-CARLA-2023.pdf)
-    +	Poster 07: To be confirmed
-    +	Poster 08: To be confirmed
-    +	Poster 09: To be confirmed
-    +	Poster 10: To be confirmed
 
 ### Day 2 – Thursday (August 24)
 +	08:30 – 09:15:	Morning Coffee & Pastries
