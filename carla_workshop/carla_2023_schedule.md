@@ -40,7 +40,7 @@
 
 **Talk Session 1: Semantics**
 +	11:00 – 11:30: Kyan Salehi (Concordia University)
-      +	*Title to come* [Abstract]
+      +	*Accessing the meaning of compound and pseudocompound constituents: Evidence from a word-picture dichoptic paradigm* [Abstract]
 +	11:30 – 12:00: Larissa Jordan (University of Cincinnati)
       +	*The nature of automatic semantic retrieval in individuals with mild cognitive impairment* [[Abstract]](abstracts_2023/Jordan-CARLA-2023.pdf)
 +	12:00 – 12:30: Caitlyn Antal (McGill University)
