@@ -34,7 +34,7 @@
 +	09:30 – 10:30:	Alex Clarke (University of Cambridge) - *The Neural Dynamics of Meaningful Object Recognition* [[Abstract]](abstracts_2023/Clarke-CARLA-2023.pdf)
 +	10:30 – 11:00: Coffee Break
 
-**Talk Session 1: Semantics**
+**Talk Session 1: Semantic Priming**
 +	11:00 – 11:30: Kyan Salehi (Concordia University)
       +	*Accessing the meaning of compound and pseudocompound constituents: Evidence from a word-picture dichoptic paradigm* [Abstract]
 +	11:30 – 12:00: Larissa Jordan (University of Cincinnati)
