@@ -59,7 +59,7 @@
       +	*Is a hot dog a sandwich?: The dynamics of open texture* [[Abstract]](abstracts_2023/Kendrick-CARLA-2023.pdf)
 
 **Workshop Dinner**
-+	19:00:	Location: Wienstein & Gavino's (tentative)
++	19:00:	Location: [Wienstein & Gavino's](https://wgmtl.com/en) (tentative)
 
 ### Day 3 – Friday (August 25)
 +	08:30 – 09:15:	Morning Coffee & Pastries
