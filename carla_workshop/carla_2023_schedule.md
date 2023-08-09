@@ -2,7 +2,7 @@
 [comment]: <> (<img align="center" src="/CARLA/carla_workshop/logos.PNG" width="70%" />)
 [comment]: <> (</p>)
 
-## Preliminary Schedule 
+## Schedule 
 
 ### Day 1 – Wednesday (August 23)
 + 14:00 – 15:00:	Registration
