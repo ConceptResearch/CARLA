@@ -9,7 +9,7 @@
 +	16:00 – 16:15: Opening Remarks
 
 **Keynote Session 1: Philosophy of Mind**
-+	16:15 – 17:15: John Perry (Stanford University) - *Self-Concepts: Primitive and Robust* [[Abstract]](abstracts_2023/Perry-CARLA-2023.pdf)
++	16:15 – 17:15: John Perry (Stanford University) - *Self-Concepts: Primitive and Robust* [[Abstract]](abstracts_2023/Perry-CARLA-2023-revised.pdf)
 
 **Cocktail Reception & Poster Session**
 +	17:15 – 19:00:
