@@ -8,7 +8,7 @@
 + 14:00 – 15:00:	Registration
 +	16:00 – 16:15: Opening Remarks
 
-**Keynote Session 1: Philosophy of Mind**
+**Keynote Session 1: Philosophy of Mind** [Session Chair: Chris Genovesi]
 +	16:15 – 17:15: John Perry (Stanford University) - *Self-Concepts: Primitive and Robust* [[Abstract]](abstracts_2023/Perry-carla-abstract-revised.pdf)
 
 **Cocktail Reception & Poster Session**
@@ -30,7 +30,7 @@
 +	08:30 – 09:15:	Morning Coffee & Pastries
 +	09:15 – 09:30: Opening Remarks
 
-**Keynote Session 2: Cognitive Neuroscience**
+**Keynote Session 2: Cognitive Neuroscience** [Session Chair: Tobias Ungerer]
 +	09:30 – 10:30:	Alex Clarke (University of Cambridge) - *The Neural Dynamics of Meaningful Object Recognition* [[Abstract]](abstracts_2023/Clarke-CARLA-2023.pdf)
 +	10:30 – 11:00: Coffee Break
 
@@ -44,7 +44,7 @@
 
 **12:30 – 14:00: Lunch Break**
 
-**Keynote Session 3: Conceptual Development**
+**Keynote Session 3: Conceptual Development** [Session Chair: Chris Genovesi]
 +	14:00 – 15:00: Alan Bale (Concordia University) – *Nominal Concepts and Quantities* [Abstract]
 +	15:00 – 15:30: Coffee Break
 
@@ -65,7 +65,7 @@
 +	08:30 – 09:15:	Morning Coffee & Pastries
 +	09:15 – 09:30: Opening Remarks
 
-**Keynote Session 4: Artificial Intelligence and Symbol Grounding**
+**Keynote Session 4: Artificial Intelligence and Symbol Grounding** [Session Chair: Tobias Ungerer]
 +	09:30 – 10:30:	Stevan Harnad (Université du Quebec à Montreal) – *What ChatGPT lacks: How do words get their meaning?* [[Abstract]](abstracts_2023/Harnad-CARLA-2023.pdf)
 +	10:30 – 11:00: Coffee Break
 
@@ -79,7 +79,7 @@
 
 **12:30 – 14:00: Lunch Break**
 
-**Keynote Session 5: Distributional Social Semantics**
+**Keynote Session 5: Distributional Social Semantics** [Session Chair: Caitlyn Antal]
 +	14:00 – 15:00: Brendan Johns (McGill University) – *Grounding Computational Models of Language in the Social Environment: A New Direction for Models of Language Processing* [Abstract]
 +	15:00 – 15:30: Coffee Break
 
@@ -91,7 +91,7 @@
 +	16:30 – 17:00: Beth Barker (Northwestern University)
       +	*Propositions in action* [[Abstract]](abstracts_2023/Barker-CARLA-2023.pdf)
 
-**Keynote Session 6: Pragmatics/Semantics Interface**
+**Keynote Session 6: Pragmatics/Semantics Interface** [Session Chair: Roberto G. de Almeida]
 +	17:00 – 18:00: Brendan Gillon (McGill University) – *Concepts and words: How do they relate to one another?* [[Abstract]](abstracts_2023/Gillon-CARLA-2023.pdf)
 +	18:00 – 18:15: Closing Remarks
 
