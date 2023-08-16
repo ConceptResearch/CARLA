@@ -8,7 +8,7 @@
 + 14:00 – 15:00:	Registration
 +	16:00 – 16:15: Opening Remarks
 
-**Keynote Session 1: Philosophy of Mind** [Session Chair: Chris Genovesi]
+**Keynote Session 1: Philosophy of Mind** [Session Chair: Christopher Genovesi]
 +	16:15 – 17:15: John Perry (Stanford University) - *Self-Concepts: Primitive and Robust* [[Abstract]](abstracts_2023/Perry-carla-abstract-revised.pdf)
 
 **Cocktail Reception & Poster Session**
@@ -44,11 +44,11 @@
 
 **12:30 – 14:00: Lunch Break**
 
-**Keynote Session 3: Conceptual Development** [Session Chair: Chris Genovesi]
+**Keynote Session 3: Conceptual Development** [Session Chair: Christopher Genovesi]
 +	14:00 – 15:00: Alan Bale (Concordia University) – *Nominal Concepts and Quantities* [Abstract]
 +	15:00 – 15:30: Coffee Break
 
-**Talk Session 2: (Psycho)linguistics** [Session Chair: Chris Genovesi]
+**Talk Session 2: (Psycho)linguistics** [Session Chair: Christopher Genovesi]
 +	15:30 – 16:00: Craig Chambers & Tiana Simovic (University of Toronto)
       +	*Conceptual content and real-world coreference* [[Abstract]](abstracts_2023/Chambers-CARLA-2023.pdf)
 +	16:00 – 16:30: Tobias Ungerer, Caitlyn Antal*, & Roberto G. de Almeida (Concordia University | *McGill University)
