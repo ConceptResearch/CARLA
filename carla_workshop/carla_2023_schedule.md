@@ -34,7 +34,7 @@
 +	09:30 – 10:30:	Alex Clarke (University of Cambridge) - *The Neural Dynamics of Meaningful Object Recognition* [[Abstract]](abstracts_2023/Clarke-CARLA-2023.pdf)
 +	10:30 – 11:00: Coffee Break
 
-**Talk Session 1: Semantic Priming**
+**Talk Session 1: Semantic Priming** [Session Chair: Tobias Ungerer]
 +	11:00 – 11:30: Kyan Salehi & Roberto G. de Almeida (Concordia University)
       +	*Accessing concepts from (pseudo)constituents of words* [Abstract]
 +	11:30 – 12:00: Larissa Jordan & Kristi Hendrickson* (University of Cincinnati | * University of Iowa)
@@ -48,7 +48,7 @@
 +	14:00 – 15:00: Alan Bale (Concordia University) – *Nominal Concepts and Quantities* [Abstract]
 +	15:00 – 15:30: Coffee Break
 
-**Talk Session 2: (Psycho)linguistics**
+**Talk Session 2: (Psycho)linguistics** [Session Chair: Chris Genovesi]
 +	15:30 – 16:00: Craig Chambers & Tiana Simovic (University of Toronto)
       +	*Conceptual content and real-world coreference* [[Abstract]](abstracts_2023/Chambers-CARLA-2023.pdf)
 +	16:00 – 16:30: Tobias Ungerer, Caitlyn Antal*, & Roberto G. de Almeida (Concordia University | *McGill University)
@@ -69,7 +69,7 @@
 +	09:30 – 10:30:	Stevan Harnad (Université du Quebec à Montreal) – *What ChatGPT lacks: How do words get their meaning?* [[Abstract]](abstracts_2023/Harnad-CARLA-2023.pdf)
 +	10:30 – 11:00: Coffee Break
 
-**Talk Session 3: Philosophy of Language and Mind**
+**Talk Session 3: Philosophy of Language and Mind** [Session Chair: Tobias Ungerer]
 +	11:00 – 11:30: Majid Amini (Virginia State University)
       +	*Fodor on concepts and language: Evolutionary (dis)continuity?* [[Abstract]](abstracts_2023/Amini-CARLA-2023.pdf)
 +	11:30 – 12:00: Christopher Genovesi (Concordia University)
@@ -83,7 +83,7 @@
 +	14:00 – 15:00: Brendan Johns (McGill University) – *Grounding Computational Models of Language in the Social Environment: A New Direction for Models of Language Processing* [Abstract]
 +	15:00 – 15:30: Coffee Break
 
-**Talk Session 4: Social Semantics and Concepts in Action**
+**Talk Session 4: Social Semantics and Concepts in Action** [Session Chair: Caitlyn Antal]
 +	15:30 – 16:00: Dominik Hetjens & Stefan Hartmann* (TU Dresden | *University of Düsseldorf)
       +	*Will Carla apply for this job, or just Carl? – What user interactions with job listings reveal about the effects of gender-sensitive language on male and female representations* [[Abstract]](abstracts_2023/Hetjens-Hartmann-CARLA-2023.pdf)
 +	16:00 – 16:30: Stephanie Rotter & Mingya Liu (Humboldt-Universität zu Berlin)
