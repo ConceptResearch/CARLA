@@ -75,7 +75,7 @@ Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-fin
 **12:30 – 14:00: Lunch Break**
 
 **Keynote Session 5: Distributional Social Semantics** [Session Chair: Caitlyn Antal]
-+	14:00 – 15:00: Brendan Johns (McGill University) – *Grounding Computational Models of Language in the Social Environment: A New Direction for Models of Language Processing* [Abstract]
++	14:00 – 15:00: Brendan Johns (McGill University) – *Grounding Computational Models of Language in the Social Environment: A New Direction for Models of Language Processing* [[Abstract]](abstracts_2023/Johns-CARLA2023-abstract.pdf)
 +	15:00 – 15:30: Coffee Break
 
 **Talk Session 4: Social Semantics and Concepts in Action** [Session Chair: Caitlyn Antal]
