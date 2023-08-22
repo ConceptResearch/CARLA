@@ -21,7 +21,7 @@ Please click [here](https://forms.gle/rq4LHfLGgbYvjY6R8) for the registration fo
 
 ### Schedule:
 
-Please click [here](carla_2023_schedule.md) for the workshop schedule.
+Please click [here](carla_2023_schedule.md) for the workshop schedule and [here](abstracts_2023/CARLA-BoA-final.pdf) for the book of abstracts.
 
 ### Practical information:
 
