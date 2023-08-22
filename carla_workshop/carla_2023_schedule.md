@@ -14,18 +14,12 @@ Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-fin
 
 **Cocktail Reception & Poster Session**
 +	17:15 – 19:00:
-    +	Poster 01: Omar Ezzaoua (Hassan II University):
-        +	*Cultural Dimensions and Pragmatic Failure: The case of Moroccan EFL University students* [[Abstract]](abstracts_2023/Ezzaoua-CARLA-2023.pdf)
-    +	Poster 02: Abouzar Moradian Tehrani (Texas A&M University):
-        + *Reframing concepts: A perception and prediction-based account* [[Abstract]](abstracts_2023/Moradian-CARLA-2023.pdf)
-    +	Poster 03: Paul Stan & Roberto G. de Almeida (Concordia University):
+    +	Poster 01: Paul Stan & Roberto G. de Almeida (Concordia University):
         + *Do concepts decompose? Evidence from a memory-for-propositions task* [Abstract]
-    +	Poster 04: Cedric Le-Bouar & Roberto G. de Almeida (Concordia University):
+    +	Poster 02: Cedric Le-Bouar & Roberto G. de Almeida (Concordia University):
         + *Pre-lexical morphological parsing of ambiguous roots: Evidence from a cross-modal task* [Abstract]
-    +	Poster 05: Alessandro La Serra, Caitlyn Antal*, & Roberto G. de Almeida (Concordia University | *McGill University):
+    +	Poster 03: Alessandro La Serra, Caitlyn Antal*, & Roberto G. de Almeida (Concordia University | *McGill University):
         + *From perception to meaning: The role of color and texture in the early stages of conceptual access* [Abstract]
-    +	Poster 06: Elena Nikolaenko (Bryansk State University):
-        + *Conceptualizing excessive action through the water and sand metaphors as cultural representation of thought (the English, Russian and Czech languages)* [[Abstract]](abstracts_2023/Nikolaenko-CARLA-2023.pdf)
 
 ### Day 2 – Thursday (August 24)
 +	08:30 – 09:15:	Morning Coffee & Pastries
