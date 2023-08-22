@@ -31,7 +31,7 @@ Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-fin
 
 **Talk Session 1: Semantic Priming** [Session Chair: Tobias Ungerer]
 +	11:00 – 11:30: Kyan Salehi & Roberto G. de Almeida (Concordia University)
-      +	*Accessing concepts from (pseudo)constituents of words* [Abstract]
+      +	*Accessing concepts from (pseudo)constituents of words* [[Abstract]](abstracts_2023/Salehi-deAlmeida-CARLA-2023.pdf)
 +	11:30 – 12:00: Larissa Jordan & Kristi Hendrickson* (University of Cincinnati | * University of Iowa)
       +	*The nature of automatic semantic retrieval in individuals with mild cognitive impairment* [[Abstract]](abstracts_2023/Jordan-CARLA-2023.pdf)
 +	12:00 – 12:30: Caitlyn Antal & Roberto G. de Almeida* (McGill University | *Concordia University)
@@ -40,7 +40,7 @@ Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-fin
 **12:30 – 14:00: Lunch Break**
 
 **Keynote Session 3: Conceptual Development** [Session Chair: Christopher Genovesi]
-+	14:00 – 15:00: Alan Bale (Concordia University) – *Nominal Concepts and Quantities* [Abstract]
++	14:00 – 15:00: Alan Bale (Concordia University) – *Nominal Concepts and Quantities* [[Abstract]](abstracts_2023/Bale-CARLA-2023.pdf)
 +	15:00 – 15:30: Coffee Break
 
 **Talk Session 2: (Psycho)linguistics** [Session Chair: Christopher Genovesi]
