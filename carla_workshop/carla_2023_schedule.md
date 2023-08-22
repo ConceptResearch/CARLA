@@ -5,7 +5,7 @@
 ## Schedule 
 
 ### Day 1 – Wednesday (August 23)
-+ 14:00 – 15:00:	Registration
++   15:00 – 16:00:	Registration
 +	16:00 – 16:15: Opening Remarks
 
 **Keynote Session 1: Philosophy of Mind** [Session Chair: Christopher Genovesi]
