@@ -15,11 +15,11 @@ Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-fin
 **Cocktail Reception & Poster Session**
 +	17:15 – 19:00:
     +	Poster 01: Paul Stan & Roberto G. de Almeida (Concordia University):
-        + *Do concepts decompose? Evidence from a memory-for-propositions task* [[Abstract]](Stan-deAlmeida-CARLA2023-abstract.pdf)
+        + *Do concepts decompose? Evidence from a memory-for-propositions task* [[here]](abstracts_2023/Stan-deAlmeida-CARLA2023-abstract.pdf)
     +	Poster 02: Cedric Le-Bouar & Roberto G. de Almeida (Concordia University):
-        + *Pre-lexical morphological parsing of ambiguous roots: Evidence from a cross-modal task* [[Abstract]](LeBouar-deAlmeida-CARLA-2023.pdf)
+        + *Pre-lexical morphological parsing of ambiguous roots: Evidence from a cross-modal task* [[Abstract]](abstracts_2023/LeBouar-deAlmeida-CARLA-2023.pdf)
     +	Poster 03: Alessandro La Serra, Caitlyn Antal*, & Roberto G. de Almeida (Concordia University | *McGill University):
-        + *From perception to meaning: The role of color and texture in the early stages of conceptual access* [[Abstract]](La-Serra-et-al-CARLA-2023.pdf)
+        + *From perception to meaning: The role of color and texture in the early stages of conceptual access* [[Abstract]](abstracts_2023/La-Serra-et-al-CARLA-2023.pdf)
 
 ### Day 2 – Thursday (August 24)
 +	08:30 – 09:15:	Morning Coffee & Pastries
