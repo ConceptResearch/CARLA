@@ -3,7 +3,7 @@
 [comment]: <> (</p>)
 
 ## Schedule 
-Please download the full book of abstracts [[here]](abstracts_2023/CARLA BoA_final.pdf)
+Please download the full book of abstracts [[here]](abstracts_2023/CARLA-BoA-final.pdf)
 
 ### Day 1 – Wednesday (August 23)
 +   15:00 – 16:00:	Registration
